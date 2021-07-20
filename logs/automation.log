@@ -1,0 +1,1446 @@
+21/07/11 16:05:32 INFO tests.Test_Registration: Test finish
+21/07/12 11:28:16 INFO tests.Test_Registration: Test finish
+21/07/12 11:46:36 INFO tests.Test_Registration: Test finish
+21/07/12 11:46:39 INFO tests.Test_Registration: Test finish
+21/07/12 11:47:07 INFO tests.Test_Registration: Test finish
+21/07/12 11:47:25 INFO tests.Test_Registration: Test finish
+21/07/12 11:48:54 INFO tests.Test_Registration: Begin test
+21/07/12 11:48:54 INFO tests.Test_Registration: Test finish
+21/07/12 12:03:54 INFO tests.Test_Registration: Begin test
+21/07/12 12:03:57 INFO tests.Test_Registration: Test finish
+21/07/12 12:34:21 INFO tests.Test_Registration: Begin test
+21/07/12 12:34:24 INFO tests.Test_Registration: Test finish
+21/07/12 12:35:56 INFO tests.Test_Registration: Begin test
+21/07/12 12:36:02 INFO tests.Test_Registration: Test finish
+21/07/12 13:08:36 INFO tests.Test_Registration: Begin test
+21/07/12 13:08:43 INFO tests.Test_Registration: Test finish
+21/07/12 13:11:13 INFO tests.Test_Registration: Begin test
+21/07/12 13:11:20 INFO tests.Test_Registration: Test finish
+21/07/12 13:13:42 INFO tests.Test_Registration: Begin test
+21/07/12 13:13:54 INFO tests.Test_Registration: Test finish
+21/07/12 13:15:14 INFO tests.Test_Registration: Begin test
+21/07/12 13:15:25 INFO tests.Test_Registration: Test finish
+21/07/12 13:18:31 INFO tests.Test_Registration: Begin test
+21/07/12 13:18:44 INFO tests.Test_Registration: Test finish
+21/07/12 13:21:15 INFO tests.Test_Registration: Begin test
+21/07/12 13:21:29 INFO tests.Test_Registration: Test finish
+21/07/12 13:22:23 INFO tests.Test_Registration: Begin test
+21/07/12 13:22:34 INFO tests.Test_Registration: Test finish
+21/07/12 13:24:15 INFO tests.Test_Registration: Begin test
+21/07/12 13:24:27 INFO tests.Test_Registration: Test finish
+21/07/12 14:39:03 INFO tests.Test_Registration: Begin test
+21/07/12 14:39:16 INFO tests.Test_Registration: Test finish
+21/07/12 14:43:48 INFO tests.Test_Registration: Begin test
+21/07/12 14:44:01 INFO tests.Test_Registration: Test finish
+21/07/12 14:46:31 INFO tests.Test_Registration: Begin test
+21/07/12 14:46:44 INFO tests.Test_Registration: Test finish
+21/07/12 14:49:12 INFO tests.Test_Registration: Begin test
+21/07/12 14:49:24 INFO tests.Test_Registration: Test finish
+21/07/12 14:50:05 INFO tests.Test_Registration: Begin test
+21/07/12 14:50:17 INFO tests.Test_Registration: Test finish
+21/07/12 14:58:01 INFO tests.Test_Registration: Begin test
+21/07/12 14:58:13 ERROR pages.RegistrationPage: Error occurs while fills username field
+21/07/12 14:58:19 INFO tests.Test_Registration: Test finish
+21/07/12 14:58:54 INFO tests.Test_Registration: Begin test
+21/07/12 14:59:05 ERROR pages.RegistrationPage: Error occurs while fills username field
+21/07/12 14:59:11 INFO tests.Test_Registration: Test finish
+21/07/12 15:17:51 INFO tests.Test_Registration: Begin test
+21/07/12 15:18:03 ERROR pages.RegistrationPage: Error occurred while filling username field
+21/07/12 15:18:03 INFO pages.RegistrationPage: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#ember143"}
+  (Session info: chrome=91.0.4472.124)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '172.19.19.39', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51143}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 41b8b5e4afe05c352457c8e7c6898942
+*** Element info: {Using=id, value=ember143}
+21/07/12 15:18:03 INFO pages.RegistrationPage: The email provide  successfully.
+21/07/12 15:18:08 INFO tests.Test_Registration: Test finish
+21/07/12 15:23:44 INFO tests.Test_Registration: Begin test
+21/07/12 15:23:51 INFO pages.RegistrationPage: The username field filled successfully.
+21/07/12 15:23:52 INFO pages.RegistrationPage: The email field filled successfully.
+21/07/12 15:23:52 INFO pages.RegistrationPage: The password field filled successfully.
+21/07/12 15:23:53 INFO pages.RegistrationPage: The password verification field filled successfully.
+21/07/12 15:23:57 INFO tests.Test_Registration: Test finish
+21/07/12 15:29:38 INFO tests.Test_Registration: Begin test
+21/07/12 15:29:43 INFO pages.RegistrationPage: The username field filled successfully.
+21/07/12 15:29:43 INFO pages.RegistrationPage: The email field filled successfully.
+21/07/12 15:29:44 INFO pages.RegistrationPage: The password field filled successfully.
+21/07/12 15:29:44 INFO pages.RegistrationPage: The password verification field filled successfully.
+21/07/12 15:29:47 INFO tests.Test_Registration: Test finish
+21/07/12 15:33:54 INFO tests.Test_Registration: Begin test
+21/07/12 15:33:56 INFO pages.RegistrationPage: The username field filled successfully.
+21/07/12 15:33:56 INFO pages.RegistrationPage: The email field filled successfully.
+21/07/12 15:33:56 INFO pages.RegistrationPage: The password field filled successfully.
+21/07/12 15:33:57 INFO pages.RegistrationPage: The password verification field filled successfully.
+21/07/12 15:33:58 INFO tests.Test_Registration: Test finish
+21/07/12 15:36:51 INFO tests.Test_Registration: Begin test
+21/07/12 15:36:52 INFO pages.RegistrationPage: The username field filled successfully.
+21/07/12 15:36:53 INFO pages.RegistrationPage: The email field filled successfully.
+21/07/12 15:36:53 INFO pages.RegistrationPage: The password field filled successfully.
+21/07/12 15:36:53 INFO pages.RegistrationPage: The password verification field filled successfully.
+21/07/12 15:36:54 INFO tests.Test_Registration: Test finish
+21/07/12 15:49:39 INFO tests.Test_Registration: Begin testtestVerifyRegistrationPage(TestInfo)
+21/07/12 15:49:40 INFO pages.RegistrationPage: The username field filled successfully.
+21/07/12 15:49:40 INFO pages.RegistrationPage: The email field filled successfully.
+21/07/12 15:49:40 INFO pages.RegistrationPage: The password field filled successfully.
+21/07/12 15:49:40 INFO pages.RegistrationPage: The password verification field filled successfully.
+21/07/12 15:49:41 INFO tests.Test_Registration: Test finishTest_Registration
+21/07/12 16:06:33 INFO tests.TestHomescreen: Test finish: TestHomescreen
+21/07/12 16:07:25 INFO tests.TestHomescreen: Begin test: homeScreenVerification(TestInfo)
+21/07/12 16:07:26 INFO tests.TestHomescreen: Test finish: TestHomescreen
+21/07/12 16:46:16 INFO tests.TestHomescreen: Begin test
+21/07/12 16:46:17 INFO tests.TestHomescreen: Test finish
+21/07/12 16:53:48 INFO tests.TestHomescreen: Begin test
+21/07/12 16:53:53 INFO tests.TestHomescreen: Test finish
+21/07/12 16:56:29 INFO tests.TestHomescreen: Begin test
+21/07/12 16:56:36 INFO tests.TestHomescreen: Test finish
+21/07/12 16:59:34 INFO tests.TestHomescreen: Begin test
+21/07/12 16:59:41 INFO tests.TestHomescreen: Test finish
+21/07/12 17:01:52 INFO tests.TestHomescreen: Begin test
+21/07/12 17:01:59 INFO tests.TestHomescreen: Test finish
+21/07/12 17:05:50 INFO tests.TestHomescreen: Begin test
+21/07/12 17:05:54 INFO tests.TestHomescreen: Test finish
+21/07/12 17:07:32 INFO tests.TestHomescreen: Begin test
+21/07/12 17:07:34 INFO tests.TestHomescreen: Test finish
+21/07/12 17:10:37 INFO tests.TestHomescreen: Begin test
+21/07/12 17:10:47 INFO tests.TestHomescreen: Test finish
+21/07/12 17:17:41 INFO tests.TestHomescreen: Begin test
+21/07/12 17:17:45 INFO tests.TestHomescreen: Test finish
+21/07/12 17:18:09 INFO tests.TestHomescreen: Begin test
+21/07/12 17:18:18 INFO tests.TestHomescreen: Test finish
+21/07/12 17:22:46 INFO tests.TestHomescreen: Begin test
+21/07/12 17:22:50 INFO tests.TestHomescreen: Test finish
+21/07/12 17:25:18 INFO tests.TestHomescreen: Begin test
+21/07/12 17:25:28 INFO tests.TestHomescreen: Test finish
+21/07/12 17:27:24 INFO tests.TestHomescreen: Begin test
+21/07/12 17:27:24 INFO tests.TestHomescreen: Test finish
+21/07/12 17:27:39 INFO tests.TestHomescreen: Begin test
+21/07/12 17:27:49 INFO tests.TestHomescreen: Test finish
+21/07/12 17:34:15 INFO tests.TestHomescreen: Begin test
+21/07/12 17:34:20 INFO tests.TestHomescreen: Test finish
+21/07/12 17:34:54 INFO tests.TestHomescreen: Begin test
+21/07/12 17:34:56 INFO tests.TestHomescreen: Test finish
+21/07/12 17:38:03 INFO tests.TestHomescreen: Begin test
+21/07/12 17:38:12 INFO tests.TestHomescreen: Test finish
+21/07/12 17:39:04 INFO tests.TestHomescreen: Begin test
+21/07/12 17:39:07 INFO tests.TestHomescreen: Test finish
+21/07/12 17:39:26 INFO tests.TestHomescreen: Begin test
+21/07/12 17:39:35 INFO tests.TestHomescreen: Test finish
+21/07/12 17:42:49 INFO tests.TestHomescreen: Begin test
+21/07/12 17:42:52 INFO tests.TestHomescreen: Test finish
+21/07/12 17:44:42 INFO tests.TestHomescreen: Begin test
+21/07/12 17:44:51 INFO tests.TestHomescreen: Test finish
+21/07/12 17:46:32 INFO tests.TestHomescreen: Begin test
+21/07/12 17:46:35 INFO tests.TestHomescreen: Test finish
+21/07/12 17:46:49 INFO tests.TestHomescreen: Begin test
+21/07/12 17:46:52 INFO tests.TestHomescreen: Test finish
+21/07/12 17:47:14 INFO tests.TestHomescreen: Begin test
+21/07/12 17:47:17 INFO tests.TestHomescreen: Test finish
+21/07/12 17:47:56 INFO tests.TestHomescreen: Begin test
+21/07/12 17:47:58 INFO tests.TestHomescreen: Test finish
+21/07/12 17:49:02 INFO tests.TestHomescreen: Begin test
+21/07/12 17:49:06 INFO tests.TestHomescreen: Test finish
+21/07/12 17:50:25 INFO tests.TestHomescreen: Begin test
+21/07/12 17:50:34 INFO tests.TestHomescreen: Test finish
+21/07/12 17:54:41 INFO tests.TestHomescreen: Begin test
+21/07/12 17:54:44 INFO tests.TestHomescreen: Test finish
+21/07/12 17:55:22 INFO tests.TestHomescreen: Begin test
+21/07/12 17:55:25 INFO tests.TestHomescreen: Test finish
+21/07/12 17:56:49 INFO tests.TestHomescreen: Begin test
+21/07/12 17:56:55 INFO tests.TestHomescreen: Test finish
+21/07/12 17:58:17 INFO tests.TestHomescreen: Begin test
+21/07/12 17:58:24 INFO tests.TestHomescreen: Test finish
+21/07/12 18:01:02 INFO tests.TestHomescreen: Begin test
+21/07/12 18:01:11 INFO tests.TestHomescreen: Test finish
+21/07/12 18:01:37 INFO tests.TestHomescreen: Begin test
+21/07/12 18:01:39 INFO tests.TestHomescreen: Test finish
+21/07/12 18:02:03 INFO tests.TestHomescreen: Begin test
+21/07/12 18:02:14 INFO tests.TestHomescreen: Test finish
+21/07/12 18:04:21 INFO tests.TestHomescreen: Begin test
+21/07/12 18:04:24 INFO tests.TestHomescreen: Test finish
+21/07/12 18:07:59 INFO tests.TestHomescreen: Begin test
+21/07/12 18:08:02 INFO tests.TestHomescreen: Test finish
+21/07/13 10:33:11 INFO tests.Test_Registration: Begin test
+21/07/13 10:33:11 INFO pages.RegistrationPage: The username field filled successfully.
+21/07/13 10:33:12 INFO pages.RegistrationPage: The email field filled successfully.
+21/07/13 10:33:12 INFO pages.RegistrationPage: The password field filled successfully.
+21/07/13 10:33:12 INFO pages.RegistrationPage: The password verification field filled successfully.
+21/07/13 10:33:13 INFO tests.Test_Registration: Test finish
+21/07/13 10:33:31 INFO tests.TestHomescreen: Begin test
+21/07/13 10:33:34 INFO tests.TestHomescreen: Test finish
+21/07/13 10:34:55 INFO tests.TestHomescreen: Begin test
+21/07/13 10:35:06 INFO tests.TestHomescreen: Test finish
+21/07/13 10:36:54 INFO tests.TestHomescreen: Begin test
+21/07/13 10:37:04 INFO tests.TestHomescreen: Test finish
+21/07/13 10:39:04 INFO tests.TestHomescreen: Begin test
+21/07/13 10:39:27 INFO tests.TestHomescreen: Test finish
+21/07/13 10:40:34 INFO tests.TestHomescreen: Begin test
+21/07/13 10:40:46 INFO tests.TestHomescreen: Test finish
+21/07/13 10:51:41 INFO tests.TestHomescreen: Begin test
+21/07/13 10:51:53 INFO tests.TestHomescreen: Test finish
+21/07/13 11:29:34 INFO tests.TestHomescreen: Begin test
+21/07/13 11:29:46 INFO tests.TestHomescreen: Test finish
+21/07/13 11:34:28 INFO tests.TestHomescreen: Begin test
+21/07/13 11:34:38 INFO tests.TestHomescreen: Test finish
+21/07/13 11:37:58 INFO tests.TestHomescreen: Begin test
+21/07/13 11:38:09 INFO tests.TestHomescreen: Test finish
+21/07/13 11:40:41 INFO tests.TestHomescreen: Begin test
+21/07/13 11:40:55 INFO tests.TestHomescreen: Test finish
+21/07/13 11:42:07 INFO tests.TestHomescreen: Begin test
+21/07/13 11:42:20 INFO tests.TestHomescreen: Test finish
+21/07/13 11:42:59 INFO tests.TestHomescreen: Begin test
+21/07/13 11:43:08 INFO tests.TestHomescreen: Test finish
+21/07/13 11:44:23 INFO tests.TestHomescreen: Begin test
+21/07/13 11:44:31 INFO tests.TestHomescreen: Test finish
+21/07/13 13:27:27 INFO tests.TestHomescreen: Begin test
+21/07/13 13:27:36 INFO tests.TestHomescreen: Test finish
+21/07/13 13:28:21 INFO tests.TestHomescreen: Begin test
+21/07/13 13:28:27 INFO tests.TestHomescreen: Test finish
+21/07/13 13:59:07 INFO tests.TestHomescreen: Begin test
+21/07/13 13:59:13 INFO tests.TestHomescreen: Test finish
+21/07/13 13:59:45 INFO tests.TestHomescreen: Begin test
+21/07/13 13:59:53 INFO tests.TestHomescreen: Test finish
+21/07/13 14:00:26 INFO tests.TestHomescreen: Begin test
+21/07/13 14:00:30 INFO tests.TestHomescreen: Test finish
+21/07/13 14:00:39 INFO tests.TestHomescreen: Test finish
+21/07/13 14:04:50 INFO tests.TestHomescreen: Begin test
+21/07/13 14:04:57 INFO tests.TestHomescreen: Test finish
+21/07/13 14:19:45 INFO tests.TestHomescreen: Begin test
+21/07/13 14:19:55 INFO tests.TestHomescreen: Test finish
+21/07/13 14:22:39 INFO tests.TestHomescreen: Begin test
+21/07/13 14:22:44 INFO tests.TestHomescreen: Test finish
+21/07/13 14:25:35 INFO tests.TestHomescreen: Begin test
+21/07/13 14:25:40 INFO tests.TestHomescreen: Test finish
+21/07/13 14:26:18 INFO tests.TestHomescreen: Begin test
+21/07/13 14:26:23 INFO tests.TestHomescreen: Test finish
+21/07/13 14:26:59 INFO tests.TestHomescreen: Begin test
+21/07/13 14:27:04 INFO tests.TestHomescreen: Test finish
+21/07/13 14:27:41 INFO tests.TestHomescreen: Begin test
+21/07/13 14:27:43 INFO tests.TestHomescreen: Test finish
+21/07/13 14:28:21 INFO tests.TestHomescreen: Begin test
+21/07/13 14:28:25 INFO tests.TestHomescreen: Test finish
+21/07/13 14:28:44 INFO tests.TestHomescreen: Begin test
+21/07/13 14:28:46 INFO tests.TestHomescreen: Test finish
+21/07/13 14:31:14 INFO tests.TestHomescreen: Begin test
+21/07/13 14:31:16 INFO tests.TestHomescreen: Test finish
+21/07/13 14:31:44 INFO tests.TestHomescreen: Begin test
+21/07/13 14:31:46 INFO tests.TestHomescreen: Test finish
+21/07/13 14:40:17 INFO tests.TestHomescreen: Begin test
+21/07/13 14:40:20 INFO tests.TestHomescreen: Test finish
+21/07/13 14:42:11 INFO tests.TestHomescreen: Begin test
+21/07/13 14:42:14 INFO tests.TestHomescreen: Test finish
+21/07/13 14:45:00 INFO tests.TestHomescreen: Begin test
+21/07/13 14:45:06 INFO tests.TestHomescreen: Test finish
+21/07/13 14:53:08 INFO tests.TestHomescreen: Begin test
+21/07/13 14:53:13 INFO tests.TestHomescreen: Test finish
+21/07/13 15:46:48 INFO tests.TestHomescreen: Begin test
+21/07/13 15:46:51 INFO tests.TestHomescreen: Test finish
+21/07/13 15:47:54 INFO tests.TestHomescreen: Begin test
+21/07/13 15:47:58 INFO tests.TestHomescreen: Test finish
+21/07/13 15:48:58 INFO tests.TestHomescreen: Begin test
+21/07/13 15:49:02 INFO tests.TestHomescreen: Test finish
+21/07/13 15:52:01 INFO tests.TestHomescreen: Begin test
+21/07/13 15:52:05 INFO tests.TestHomescreen: Test finish
+21/07/13 15:53:50 INFO tests.TestHomescreen: Begin test
+21/07/13 15:53:54 INFO tests.TestHomescreen: Test finish
+21/07/13 15:55:29 INFO tests.TestHomescreen: Begin test
+21/07/13 15:55:33 INFO tests.TestHomescreen: Test finish
+21/07/13 15:58:15 INFO tests.TestHomescreen: Begin test
+21/07/13 15:58:19 INFO tests.TestHomescreen: Test finish
+21/07/13 15:58:50 INFO tests.TestHomescreen: Begin test
+21/07/13 15:59:00 INFO tests.TestHomescreen: Test finish
+21/07/13 16:00:26 INFO tests.TestHomescreen: Begin test
+21/07/13 16:00:30 INFO tests.TestHomescreen: Test finish
+21/07/13 16:04:11 INFO tests.TestHomescreen: Begin test
+21/07/13 16:04:15 INFO tests.TestHomescreen: Test finish
+21/07/13 16:04:42 INFO tests.TestHomescreen: Begin test
+21/07/13 16:04:46 INFO tests.TestHomescreen: Test finish
+21/07/13 16:06:22 INFO tests.TestHomescreen: Begin test
+21/07/13 16:06:26 INFO tests.TestHomescreen: Test finish
+21/07/13 16:13:02 INFO tests.TestHomescreen: Begin test
+21/07/13 16:13:06 INFO tests.TestHomescreen: Test finish
+21/07/13 16:25:45 INFO tests.TestHomescreen: Begin test
+21/07/13 16:25:48 INFO tests.TestHomescreen: Test finish
+21/07/13 16:26:40 INFO tests.TestHomescreen: Begin test
+21/07/13 16:26:44 INFO tests.TestHomescreen: Test finish
+21/07/13 16:33:29 INFO tests.TestHomescreen: Begin test
+21/07/13 16:33:32 INFO tests.TestHomescreen: Test finish
+21/07/13 16:39:01 INFO tests.TestHomescreen: Begin test
+21/07/13 16:39:04 INFO tests.TestHomescreen: Test finish
+21/07/13 16:40:12 INFO tests.TestHomescreen: Begin test
+21/07/13 16:40:15 INFO tests.TestHomescreen: Test finish
+21/07/13 16:41:36 INFO tests.TestHomescreen: Begin test
+21/07/13 16:41:39 INFO tests.TestHomescreen: Test finish
+21/07/13 16:42:12 INFO tests.TestHomescreen: Begin test
+21/07/13 16:42:22 INFO tests.TestHomescreen: Test finish
+21/07/13 16:50:01 INFO tests.TestHomescreen: Begin test
+21/07/13 16:50:03 INFO tests.TestHomescreen: Test finish
+21/07/13 16:54:48 INFO tests.TestHomescreen: Begin test
+21/07/13 16:54:51 INFO tests.TestHomescreen: Test finish
+21/07/13 17:00:27 INFO tests.TestHomescreen: Begin test
+21/07/13 17:00:30 INFO tests.TestHomescreen: Test finish
+21/07/13 17:02:03 INFO tests.TestHomescreen: Begin test
+21/07/13 17:02:06 INFO tests.TestHomescreen: Test finish
+21/07/13 17:03:19 INFO tests.TestHomescreen: Begin test
+21/07/13 17:03:22 INFO tests.TestHomescreen: Test finish
+21/07/13 17:03:49 INFO tests.TestHomescreen: Begin test
+21/07/13 17:03:55 INFO tests.TestHomescreen: Test finish
+21/07/13 17:04:25 INFO tests.TestHomescreen: Begin test
+21/07/13 17:04:28 INFO tests.TestHomescreen: Test finish
+21/07/13 17:05:32 INFO tests.TestHomescreen: Begin test
+21/07/13 17:05:35 INFO tests.TestHomescreen: Test finish
+21/07/13 17:06:05 INFO tests.TestHomescreen: Begin test
+21/07/13 17:06:08 INFO tests.TestHomescreen: Test finish
+21/07/13 17:24:10 INFO tests.TestHomescreen: Begin test
+21/07/13 17:24:14 INFO tests.TestHomescreen: Test finish
+21/07/13 17:24:43 INFO tests.TestHomescreen: Begin test
+21/07/13 17:24:49 INFO tests.TestHomescreen: Test finish
+21/07/13 17:32:06 INFO tests.TestHomescreen: Begin test
+21/07/13 17:32:12 INFO tests.TestHomescreen: Test finish
+21/07/13 17:43:31 INFO tests.TestHomescreen: Begin test
+21/07/13 17:43:34 INFO tests.TestHomescreen: Test finish
+21/07/13 17:49:09 INFO tests.TestHomescreen: Begin test
+21/07/13 17:49:12 INFO tests.TestHomescreen: Test finish
+21/07/13 17:49:35 INFO tests.TestHomescreen: Begin test
+21/07/13 17:49:38 INFO tests.TestHomescreen: Test finish
+21/07/13 17:50:01 INFO tests.TestHomescreen: Begin test
+21/07/13 17:50:10 INFO tests.TestHomescreen: Test finish
+21/07/13 17:57:31 INFO tests.TestHomescreen: Begin test
+21/07/13 17:57:34 INFO tests.TestHomescreen: Test finish
+21/07/13 17:58:42 INFO tests.TestHomescreen: Begin test
+21/07/13 17:58:49 INFO tests.TestHomescreen: Test finish
+21/07/13 18:00:55 INFO tests.TestHomescreen: Begin test
+21/07/13 18:01:02 INFO tests.TestHomescreen: Test finish
+21/07/15 11:09:06 INFO tests.TestHomescreen: Begin test
+21/07/15 11:09:13 INFO tests.TestHomescreen: Test finish
+21/07/15 11:10:44 INFO tests.TestHomescreen: Begin test
+21/07/15 11:10:51 INFO tests.TestHomescreen: Test finish
+21/07/15 11:11:41 INFO tests.TestHomescreen: Begin test
+21/07/15 11:11:48 INFO tests.TestHomescreen: Test finish
+21/07/15 11:30:07 INFO tests.TestHomescreen: Begin test
+21/07/15 11:30:21 INFO tests.TestHomescreen: Test finish
+21/07/15 11:38:45 INFO tests.TestHomescreen: Begin test
+21/07/15 11:38:59 INFO tests.TestHomescreen: Test finish
+21/07/15 11:46:29 INFO tests.TestHomescreen: Begin test
+21/07/15 11:46:58 INFO tests.TestHomescreen: Test finish
+21/07/15 16:01:41 INFO tests.TestHomescreen: Begin test
+21/07/15 16:02:09 INFO tests.TestHomescreen: Test finish
+21/07/15 16:08:30 INFO tests.TestHomescreen: Begin test
+21/07/15 16:08:51 INFO tests.TestHomescreen: Test finish
+21/07/15 16:09:11 INFO tests.TestHomescreen: Begin test
+21/07/15 16:09:24 INFO tests.TestHomescreen: Test finish
+21/07/15 16:13:14 INFO tests.TestHomescreen: Begin test
+21/07/15 16:13:28 INFO tests.TestHomescreen: Test finish
+21/07/15 16:14:04 INFO tests.TestHomescreen: Begin test
+21/07/15 16:14:14 INFO tests.TestHomescreen: Test finish
+21/07/15 16:15:38 INFO tests.TestHomescreen: Begin test
+21/07/15 16:15:51 INFO tests.TestHomescreen: Test finish
+21/07/15 16:16:30 INFO tests.TestHomescreen: Begin test
+21/07/15 16:16:43 INFO tests.TestHomescreen: Test finish
+21/07/15 16:21:05 INFO tests.TestHomescreen: Begin test
+21/07/15 16:21:25 INFO tests.TestHomescreen: Test finish
+21/07/15 16:22:08 INFO tests.TestHomescreen: Begin test
+21/07/15 16:22:28 INFO tests.TestHomescreen: Test finish
+21/07/15 16:29:40 INFO tests.TestHomescreen: Begin test
+21/07/15 16:30:01 INFO tests.TestHomescreen: Test finish
+21/07/15 16:32:55 INFO tests.TestHomescreen: Begin test
+21/07/15 16:33:11 INFO tests.TestHomescreen: Test finish
+21/07/15 16:36:30 INFO tests.TestHomescreen: Begin test
+21/07/15 16:36:50 INFO tests.TestHomescreen: Test finish
+21/07/15 16:37:08 INFO tests.TestHomescreen: Begin test
+21/07/15 16:37:17 INFO tests.TestHomescreen: Test finish
+21/07/15 16:53:33 INFO tests.TestHomescreen: Begin test
+21/07/15 16:53:42 INFO tests.TestHomescreen: Test finish
+21/07/15 17:00:03 INFO tests.TestHomescreen: Begin test
+21/07/15 17:00:18 INFO tests.TestHomescreen: Test finish
+21/07/15 17:00:56 INFO tests.TestHomescreen: Begin test
+21/07/15 17:01:12 INFO tests.TestHomescreen: Test finish
+21/07/15 17:02:21 INFO tests.TestHomescreen: Begin test
+21/07/15 17:02:36 INFO tests.TestHomescreen: Test finish
+21/07/15 17:04:08 INFO tests.TestHomescreen: Begin test
+21/07/15 17:04:26 INFO tests.TestHomescreen: Test finish
+21/07/15 17:06:34 INFO tests.TestHomescreen: Begin test
+21/07/15 17:06:52 INFO tests.TestHomescreen: Test finish
+21/07/15 17:12:13 INFO tests.TestHomescreen: Begin test
+21/07/15 17:12:24 INFO tests.TestHomescreen: Test finish
+21/07/15 17:13:29 INFO tests.TestHomescreen: Begin test
+21/07/15 17:13:42 INFO tests.TestHomescreen: Test finish
+21/07/15 17:16:10 INFO tests.TestHomescreen: Begin test
+21/07/15 17:16:23 INFO tests.TestHomescreen: Test finish
+21/07/15 17:17:38 INFO tests.TestHomescreen: Begin test
+21/07/15 17:17:51 INFO tests.TestHomescreen: Test finish
+21/07/15 17:21:58 INFO tests.TestHomescreen: Begin test
+21/07/15 17:22:08 INFO tests.TestHomescreen: Test finish
+21/07/15 17:25:30 INFO tests.TestHomescreen: Begin test
+21/07/15 17:25:44 INFO tests.TestHomescreen: Test finish
+21/07/15 17:27:25 INFO tests.TestHomescreen: Begin test
+21/07/15 17:27:41 INFO tests.TestHomescreen: Test finish
+21/07/15 17:28:41 INFO tests.TestHomescreen: Begin test
+21/07/15 17:28:52 INFO tests.TestHomescreen: Test finish
+21/07/15 17:37:45 INFO tests.TestHomescreen: Begin test
+21/07/15 17:37:57 INFO tests.TestHomescreen: Test finish
+21/07/15 17:39:51 INFO tests.TestHomescreen: Begin test
+21/07/15 17:40:04 INFO tests.TestHomescreen: Test finish
+21/07/15 17:41:08 INFO tests.TestHomescreen: Begin test
+21/07/15 17:41:21 INFO tests.TestHomescreen: Test finish
+21/07/15 17:41:40 INFO tests.TestHomescreen: Begin test
+21/07/15 17:41:51 INFO tests.TestHomescreen: Test finish
+21/07/18 16:35:34 INFO tests.Test_Registration: Begin test
+21/07/18 16:35:41 ERROR pages.RegistrationPage: Error occurred while filling username field
+21/07/18 16:35:41 INFO pages.RegistrationPage: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#ember1432"}
+  (Session info: chrome=91.0.4472.124)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51131}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e41d468924dc00a1d51599ec9dcbd104
+*** Element info: {Using=id, value=ember1432}
+21/07/18 16:35:48 ERROR pages.RegistrationPage: Error occurred while filling email field
+21/07/18 16:35:48 INFO pages.RegistrationPage: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#ember1435"}
+  (Session info: chrome=91.0.4472.124)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51131}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e41d468924dc00a1d51599ec9dcbd104
+*** Element info: {Using=id, value=ember1435}
+21/07/18 16:35:48 ERROR pages.RegistrationPage: Error occurred while filling password field
+21/07/18 16:35:48 INFO pages.RegistrationPage: org.openqa.selenium.InvalidElementStateException: invalid element state
+  (Session info: chrome=91.0.4472.124)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51131}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e41d468924dc00a1d51599ec9dcbd104
+21/07/18 16:35:48 ERROR pages.RegistrationPage: Error occurred while filling password verification field
+21/07/18 16:35:48 INFO pages.RegistrationPage: org.openqa.selenium.InvalidElementStateException: invalid element state
+  (Session info: chrome=91.0.4472.124)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51131}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e41d468924dc00a1d51599ec9dcbd104
+21/07/18 16:35:49 INFO tests.Test_Registration: Test finish
+21/07/18 16:37:46 INFO tests.Test_Registration: Begin test
+21/07/18 16:37:54 ERROR pages.RegistrationPage: Error occurred while filling username field
+21/07/18 16:37:54 INFO pages.RegistrationPage: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#ember1432"}
+  (Session info: chrome=91.0.4472.124)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51552}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 113a3f49766d0e6a49765afbc5db714a
+*** Element info: {Using=id, value=ember1432}
+21/07/18 16:38:01 ERROR pages.RegistrationPage: Error occurred while filling email field
+21/07/18 16:38:01 INFO pages.RegistrationPage: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#ember1435"}
+  (Session info: chrome=91.0.4472.124)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51552}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 113a3f49766d0e6a49765afbc5db714a
+*** Element info: {Using=id, value=ember1435}
+21/07/18 16:38:01 ERROR pages.RegistrationPage: Error occurred while filling password field
+21/07/18 16:38:01 INFO pages.RegistrationPage: org.openqa.selenium.InvalidElementStateException: invalid element state
+  (Session info: chrome=91.0.4472.124)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51552}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 113a3f49766d0e6a49765afbc5db714a
+21/07/18 16:38:01 ERROR pages.RegistrationPage: Error occurred while filling password verification field
+21/07/18 16:38:01 INFO pages.RegistrationPage: org.openqa.selenium.InvalidElementStateException: invalid element state
+  (Session info: chrome=91.0.4472.124)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51552}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 113a3f49766d0e6a49765afbc5db714a
+21/07/18 16:38:02 INFO tests.Test_Registration: Test finish
+21/07/18 16:39:15 INFO tests.Test_Registration: Begin test
+21/07/18 16:39:16 INFO pages.RegistrationPage: The username field filled successfully.
+21/07/18 16:39:23 ERROR pages.RegistrationPage: Error occurred while filling email field
+21/07/18 16:39:23 INFO pages.RegistrationPage: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#ember1435"}
+  (Session info: chrome=91.0.4472.124)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64315}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7aa2cb28e3ffdb85b8a474c3b8aeefc6
+*** Element info: {Using=id, value=ember1435}
+21/07/18 16:39:23 ERROR pages.RegistrationPage: Error occurred while filling password field
+21/07/18 16:39:23 INFO pages.RegistrationPage: org.openqa.selenium.InvalidElementStateException: invalid element state
+  (Session info: chrome=91.0.4472.124)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64315}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7aa2cb28e3ffdb85b8a474c3b8aeefc6
+21/07/18 16:39:23 ERROR pages.RegistrationPage: Error occurred while filling password verification field
+21/07/18 16:39:23 INFO pages.RegistrationPage: org.openqa.selenium.InvalidElementStateException: invalid element state
+  (Session info: chrome=91.0.4472.124)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64315}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7aa2cb28e3ffdb85b8a474c3b8aeefc6
+21/07/18 16:39:24 INFO tests.Test_Registration: Test finish
+21/07/18 16:41:45 INFO tests.Test_Registration: Begin test
+21/07/18 16:41:46 INFO pages.RegistrationPage: The username field filled successfully.
+21/07/18 16:41:46 INFO pages.RegistrationPage: The email field filled successfully.
+21/07/18 16:41:46 INFO pages.RegistrationPage: The password field filled successfully.
+21/07/18 16:41:47 INFO pages.RegistrationPage: The password verification field filled successfully.
+21/07/18 16:41:47 INFO tests.Test_Registration: Test finish
+21/07/18 16:42:35 INFO tests.TestHomescreen: Begin test
+21/07/18 16:42:36 INFO tests.TestHomescreen: Test finish
+21/07/18 16:46:25 INFO tests.TestHomescreen: Begin test
+21/07/18 16:46:33 INFO tests.TestHomescreen: Test finish
+21/07/19 12:11:46 INFO tests.TestHomescreen: Begin test
+21/07/19 12:11:47 INFO pages.MainPage: Click on the dropdown price was successful.
+21/07/19 12:11:48 INFO pages.MainPage: Click on the price price was successful.
+21/07/19 12:11:55 ERROR pages.MainPage:  An error occurred while clicking on area/district
+21/07/19 12:11:55 INFO pages.MainPage: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='ember993_chosen']/a/span"}
+  (Session info: chrome=91.0.4472.124)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57715}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 32913d9ba5f89595e4f0604f13d3ec42
+*** Element info: {Using=xpath, value=//div[@id='ember993_chosen']/a/span}
+21/07/19 12:12:02 ERROR pages.MainPage:  An error occurred while clicking on area/district within the list
+21/07/19 12:12:02 INFO pages.MainPage: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='ember993_chosen']/div/ul/li[4]"}
+  (Session info: chrome=91.0.4472.124)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57715}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 32913d9ba5f89595e4f0604f13d3ec42
+*** Element info: {Using=xpath, value=//div[@id='ember993_chosen']/div/ul/li[4]}
+21/07/19 12:12:09 ERROR pages.MainPage:  An error occurred while clicking on category dropdown
+21/07/19 12:12:09 INFO pages.MainPage: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='ember1003_chosen']/a/span"}
+  (Session info: chrome=91.0.4472.124)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57715}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 32913d9ba5f89595e4f0604f13d3ec42
+*** Element info: {Using=xpath, value=//div[@id='ember1003_chosen']/a/span}
+21/07/19 12:12:16 ERROR pages.MainPage:  An error occurred while clicking on chosen category
+21/07/19 12:12:16 INFO pages.MainPage: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='ember1003_chosen']/div/ul/li[5]"}
+  (Session info: chrome=91.0.4472.124)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57715}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 32913d9ba5f89595e4f0604f13d3ec42
+*** Element info: {Using=xpath, value=//div[@id='ember1003_chosen']/div/ul/li[5]}
+21/07/19 12:12:23 ERROR pages.MainPage:  An error occurred while clicking on search button
+21/07/19 12:12:23 INFO pages.MainPage: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#ember1038"}
+  (Session info: chrome=91.0.4472.124)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57715}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 32913d9ba5f89595e4f0604f13d3ec42
+*** Element info: {Using=id, value=ember1038}
+21/07/19 12:12:44 INFO tests.TestHomescreen: Test finish
+21/07/19 12:18:57 INFO tests.TestHomescreen: Begin test
+21/07/19 12:18:59 INFO pages.MainPage: Click on the dropdown price was successful.
+21/07/19 12:18:59 INFO pages.MainPage: Click on the price price was successful.
+21/07/19 12:18:59 INFO pages.MainPage: Click on the area/district dropdown was successful.
+21/07/19 12:19:06 ERROR pages.MainPage:  An error occurred while clicking on area/district within the list
+21/07/19 12:19:06 INFO pages.MainPage: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='ember993_chosen']/div/ul/li[4]"}
+  (Session info: chrome=91.0.4472.124)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63486}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ad4cc361b50244b63e1973b3efa4f8f3
+*** Element info: {Using=xpath, value=//div[@id='ember993_chosen']/div/ul/li[4]}
+21/07/19 12:19:13 ERROR pages.MainPage:  An error occurred while clicking on category dropdown
+21/07/19 12:19:13 INFO pages.MainPage: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='ember1003_chosen']/a/span"}
+  (Session info: chrome=91.0.4472.124)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63486}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ad4cc361b50244b63e1973b3efa4f8f3
+*** Element info: {Using=xpath, value=//div[@id='ember1003_chosen']/a/span}
+21/07/19 12:19:20 ERROR pages.MainPage:  An error occurred while clicking on chosen category
+21/07/19 12:19:20 INFO pages.MainPage: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='ember1003_chosen']/div/ul/li[5]"}
+  (Session info: chrome=91.0.4472.124)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63486}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ad4cc361b50244b63e1973b3efa4f8f3
+*** Element info: {Using=xpath, value=//div[@id='ember1003_chosen']/div/ul/li[5]}
+21/07/19 12:19:27 ERROR pages.MainPage:  An error occurred while clicking on search button
+21/07/19 12:19:27 INFO pages.MainPage: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#ember1038"}
+  (Session info: chrome=91.0.4472.124)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63486}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ad4cc361b50244b63e1973b3efa4f8f3
+*** Element info: {Using=id, value=ember1038}
+21/07/19 12:19:49 INFO tests.TestHomescreen: Test finish
+21/07/19 12:22:12 INFO tests.TestHomescreen: Begin test
+21/07/19 12:22:13 INFO pages.MainPage: Click on the dropdown price was successful.
+21/07/19 12:22:13 INFO pages.MainPage: Click on the price price was successful.
+21/07/19 12:22:13 INFO pages.MainPage: Click on the area/district dropdown was successful.
+21/07/19 12:22:13 INFO pages.MainPage: Click on the area/district within list of areas was successful.
+21/07/19 12:22:20 ERROR pages.MainPage:  An error occurred while clicking on category dropdown
+21/07/19 12:22:20 INFO pages.MainPage: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='ember1003_chosen']/a/span"}
+  (Session info: chrome=91.0.4472.124)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64183}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 751e6a064333be5f6dafb0cae9f3388e
+*** Element info: {Using=xpath, value=//div[@id='ember1003_chosen']/a/span}
+21/07/19 12:22:27 ERROR pages.MainPage:  An error occurred while clicking on chosen category
+21/07/19 12:22:27 INFO pages.MainPage: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='ember1003_chosen']/div/ul/li[5]"}
+  (Session info: chrome=91.0.4472.124)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64183}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 751e6a064333be5f6dafb0cae9f3388e
+*** Element info: {Using=xpath, value=//div[@id='ember1003_chosen']/div/ul/li[5]}
+21/07/19 12:22:35 ERROR pages.MainPage:  An error occurred while clicking on search button
+21/07/19 12:22:35 INFO pages.MainPage: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#ember1038"}
+  (Session info: chrome=91.0.4472.124)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64183}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 751e6a064333be5f6dafb0cae9f3388e
+*** Element info: {Using=id, value=ember1038}
+21/07/19 12:22:56 INFO tests.TestHomescreen: Test finish
+21/07/19 12:24:08 INFO tests.TestHomescreen: Begin test
+21/07/19 12:24:09 INFO pages.MainPage: Click on the dropdown price was successful.
+21/07/19 12:24:09 INFO pages.MainPage: Click on the price price was successful.
+21/07/19 12:24:09 INFO pages.MainPage: Click on the area/district dropdown was successful.
+21/07/19 12:24:09 INFO pages.MainPage: Click on the area/district within list of areas was successful.
+21/07/19 12:24:09 INFO pages.MainPage: Click on the category dropdown was successful.
+21/07/19 12:24:10 INFO pages.MainPage: Click on the chosen category within dropdown was successful.
+21/07/19 12:24:17 ERROR pages.MainPage:  An error occurred while clicking on search button
+21/07/19 12:24:17 INFO pages.MainPage: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#ember1038"}
+  (Session info: chrome=91.0.4472.124)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49900}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 90b12508cc56604b112e742ed9d6af51
+*** Element info: {Using=id, value=ember1038}
+21/07/19 12:24:38 INFO tests.TestHomescreen: Test finish
+21/07/19 12:25:47 INFO tests.TestHomescreen: Begin test
+21/07/19 12:25:49 INFO pages.MainPage: Click on the dropdown price was successful.
+21/07/19 12:25:49 INFO pages.MainPage: Click on the price price was successful.
+21/07/19 12:25:49 INFO pages.MainPage: Click on the area/district dropdown was successful.
+21/07/19 12:25:49 INFO pages.MainPage: Click on the area/district within list of areas was successful.
+21/07/19 12:25:49 INFO pages.MainPage: Click on the category dropdown was successful.
+21/07/19 12:25:49 INFO pages.MainPage: Click on the chosen category within dropdown was successful.
+21/07/19 12:25:56 ERROR pages.MainPage:  An error occurred while clicking on search button
+21/07/19 12:25:56 INFO pages.MainPage: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@href='https://buyme.co.il/search']"}
+  (Session info: chrome=91.0.4472.124)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63797}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 30ffc2c94f059b9d8f3532e9996edc6d
+*** Element info: {Using=xpath, value=//a[@href='https://buyme.co.il/search']}
+21/07/19 12:26:18 INFO tests.TestHomescreen: Test finish
+21/07/19 12:30:14 INFO tests.TestHomescreen: Begin test
+21/07/19 12:30:15 INFO pages.MainPage: Click on the dropdown price was successful.
+21/07/19 12:30:16 INFO pages.MainPage: Click on the price price was successful.
+21/07/19 12:30:16 INFO pages.MainPage: Click on the area/district dropdown was successful.
+21/07/19 12:30:16 INFO pages.MainPage: Click on the area/district within list of areas was successful.
+21/07/19 12:30:16 INFO pages.MainPage: Click on the category dropdown was successful.
+21/07/19 12:30:16 INFO pages.MainPage: Click on the chosen category within dropdown was successful.
+21/07/19 12:30:38 ERROR pages.MainPage:  An error occurred while clicking on search button
+21/07/19 12:30:38 INFO pages.MainPage: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: //a[@href='https://buyme.co.il/search']' (tried for 8 second(s) with 500 milliseconds interval)
+21/07/19 12:30:59 INFO tests.TestHomescreen: Test finish
+21/07/19 12:32:23 INFO tests.TestHomescreen: Begin test
+21/07/19 12:32:24 INFO pages.MainPage: Click on the dropdown price was successful.
+21/07/19 12:32:24 INFO pages.MainPage: Click on the price price was successful.
+21/07/19 12:32:25 INFO pages.MainPage: Click on the area/district dropdown was successful.
+21/07/19 12:32:25 INFO pages.MainPage: Click on the area/district within list of areas was successful.
+21/07/19 12:32:25 INFO pages.MainPage: Click on the category dropdown was successful.
+21/07/19 12:32:25 INFO pages.MainPage: Click on the chosen category within dropdown was successful.
+21/07/19 12:32:35 ERROR pages.MainPage:  An error occurred while clicking on search button
+21/07/19 12:32:35 INFO pages.MainPage: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@href='https://buyme.co.il/search']"}
+  (Session info: chrome=91.0.4472.124)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54079}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9ede60c07b12dad659061cf3885bcc02
+*** Element info: {Using=xpath, value=//a[@href='https://buyme.co.il/search']}
+21/07/19 12:32:57 INFO tests.TestHomescreen: Test finish
+21/07/19 12:35:02 INFO tests.TestHomescreen: Begin test
+21/07/19 12:35:03 INFO pages.MainPage: Click on the dropdown price was successful.
+21/07/19 12:35:03 INFO pages.MainPage: Click on the price price was successful.
+21/07/19 12:35:03 INFO pages.MainPage: Click on the area/district dropdown was successful.
+21/07/19 12:35:03 INFO pages.MainPage: Click on the area/district within list of areas was successful.
+21/07/19 12:35:04 INFO pages.MainPage: Click on the category dropdown was successful.
+21/07/19 12:35:04 INFO pages.MainPage: Click on the chosen category within dropdown was successful.
+21/07/19 12:35:08 ERROR pages.MainPage:  An error occurred while clicking on search button
+21/07/19 12:35:08 INFO pages.MainPage: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a id="ember1046" href="https://buyme.co.il/search?budget=2&amp;category=8&amp;region=9" rel="nofollow" class="ui-btn search ember-view">...</a> is not clickable at point (285, 426). Other element would receive the click: <img class="inner-element" src="https://storage.googleapis.com/download/storage/v1/b/adoric-user-images/o/7016b64c-84d8-4773-b867-3121adab87db.gif?generation=1625392284025896&amp;alt=media" style="width: 100%; height: 100%; -o-object-fit: unset; object-fit: unset; opacity: 1; -webkit-box-shadow: none; -moz-box-shadow: none; box-shadow: none; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; " data-event-name="Conversion" data-shadow-distance="0" data-event-value="" data-src="https://storage.googleapis.com/download/storage/v1/b/adoric-user-images/o/0b229788-1ed9-4aa8-bb17-b310dad3ba00.gif?generation=1623565280995200&amp;alt=media" data-alt="null" alt="null">
+  (Session info: chrome=91.0.4472.124)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51608}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 87cfb352dfbdefd659af2f96a8e1d32c
+21/07/19 12:35:30 INFO tests.TestHomescreen: Test finish
+21/07/19 12:40:45 INFO tests.TestHomescreen: Begin test
+21/07/19 12:40:46 INFO pages.MainPage: Click on the dropdown price was successful.
+21/07/19 12:40:46 INFO pages.MainPage: Click on the price price was successful.
+21/07/19 12:40:46 INFO pages.MainPage: Click on the area/district dropdown was successful.
+21/07/19 12:40:46 INFO pages.MainPage: Click on the area/district within list of areas was successful.
+21/07/19 12:40:47 INFO pages.MainPage: Click on the category dropdown was successful.
+21/07/19 12:40:47 INFO pages.MainPage: Click on the chosen category within dropdown was successful.
+21/07/19 12:40:47 INFO pages.MainPage: Click on the search button was successful.
+21/07/19 12:40:49 INFO tests.TestHomescreen: Test finish
+21/07/19 12:41:19 INFO tests.TestHomescreen: Begin test
+21/07/19 12:41:21 INFO pages.MainPage: Click on the dropdown price was successful.
+21/07/19 12:41:21 INFO pages.MainPage: Click on the price price was successful.
+21/07/19 12:41:21 INFO pages.MainPage: Click on the area/district dropdown was successful.
+21/07/19 12:41:21 INFO pages.MainPage: Click on the area/district within list of areas was successful.
+21/07/19 12:41:21 INFO pages.MainPage: Click on the category dropdown was successful.
+21/07/19 12:41:21 INFO pages.MainPage: Click on the chosen category within dropdown was successful.
+21/07/19 12:41:21 INFO pages.MainPage: Click on the search button was successful.
+21/07/19 12:41:27 INFO tests.TestHomescreen: Test finish
+21/07/19 12:43:44 INFO tests.TestHomescreen: Begin test submitGift(TestInfo)
+21/07/19 12:43:45 INFO pages.MainPage: Click on the dropdown price was successful.
+21/07/19 12:43:45 INFO pages.MainPage: Click on the price price was successful.
+21/07/19 12:43:45 INFO pages.MainPage: Click on the area/district dropdown was successful.
+21/07/19 12:43:45 INFO pages.MainPage: Click on the area/district within list of areas was successful.
+21/07/19 12:43:45 INFO pages.MainPage: Click on the category dropdown was successful.
+21/07/19 12:43:45 INFO pages.MainPage: Click on the chosen category within dropdown was successful.
+21/07/19 12:43:46 INFO pages.MainPage: Click on the search button was successful.
+21/07/19 12:43:50 INFO tests.TestHomescreen: Test finish
+21/07/19 12:44:22 INFO tests.TestHomescreen: Begin test Optional[class tests.TestGiftSubmit]
+21/07/19 12:44:23 INFO pages.MainPage: Click on the dropdown price was successful.
+21/07/19 12:44:23 INFO pages.MainPage: Click on the price price was successful.
+21/07/19 12:44:23 INFO pages.MainPage: Click on the area/district dropdown was successful.
+21/07/19 12:44:23 INFO pages.MainPage: Click on the area/district within list of areas was successful.
+21/07/19 12:44:23 INFO pages.MainPage: Click on the category dropdown was successful.
+21/07/19 12:44:23 INFO pages.MainPage: Click on the chosen category within dropdown was successful.
+21/07/19 12:44:24 INFO pages.MainPage: Click on the search button was successful.
+21/07/19 12:44:29 INFO tests.TestHomescreen: Test finish
+21/07/19 12:47:46 INFO tests.Test_Registration: Begin test
+21/07/19 12:47:46 INFO pages.RegistrationPage: The username field filled successfully.
+21/07/19 12:47:47 INFO pages.RegistrationPage: The email field filled successfully.
+21/07/19 12:47:47 INFO pages.RegistrationPage: The password field filled successfully.
+21/07/19 12:47:47 INFO pages.RegistrationPage: The password verification field filled successfully.
+21/07/19 12:47:48 INFO tests.Test_Registration: Test finish
+21/07/19 12:49:09 INFO tests.Test_Registration: Begin testOptional[public void tests.Test_Registration.testVerifyRegistrationPage(org.junit.jupiter.api.TestInfo) throws java.lang.Exception]
+21/07/19 12:49:10 INFO tests.Test_Registration: Test finish
+21/07/19 12:49:44 INFO tests.Test_Registration: Begin test
+21/07/19 12:49:44 INFO pages.RegistrationPage: The username field filled successfully.
+21/07/19 12:49:44 INFO pages.RegistrationPage: The email field filled successfully.
+21/07/19 12:49:45 INFO pages.RegistrationPage: The password field filled successfully.
+21/07/19 12:49:45 INFO pages.RegistrationPage: The password verification field filled successfully.
+21/07/19 12:49:45 INFO tests.Test_Registration: Test finish
+21/07/19 12:50:13 INFO tests.TestHomescreen: Begin test
+21/07/19 12:50:14 INFO pages.MainPage: Click on the dropdown price was successful.
+21/07/19 12:50:14 INFO pages.MainPage: Click on the price price was successful.
+21/07/19 12:50:14 INFO pages.MainPage: Click on the area/district dropdown was successful.
+21/07/19 12:50:14 INFO pages.MainPage: Click on the area/district within list of areas was successful.
+21/07/19 12:50:14 INFO pages.MainPage: Click on the category dropdown was successful.
+21/07/19 12:50:14 INFO pages.MainPage: Click on the chosen category within dropdown was successful.
+21/07/19 12:50:15 INFO pages.MainPage: Click on the search button was successful.
+21/07/19 12:50:16 INFO tests.TestHomescreen: Test finish
+21/07/19 12:51:43 INFO tests.TestHomescreen: Begin test
+21/07/19 12:51:45 INFO pages.MainPage: Click on the dropdown price was successful.
+21/07/19 12:51:45 INFO pages.MainPage: Click on the price price was successful.
+21/07/19 12:51:45 INFO pages.MainPage: Click on the area/district dropdown was successful.
+21/07/19 12:51:45 INFO pages.MainPage: Click on the area/district within list of areas was successful.
+21/07/19 12:51:45 INFO pages.MainPage: Click on the category dropdown was successful.
+21/07/19 12:51:45 INFO pages.MainPage: Click on the chosen category within dropdown was successful.
+21/07/19 12:51:46 INFO pages.MainPage: Click on the search button was successful.
+21/07/19 12:51:47 INFO tests.TestHomescreen: Test finish
+21/07/19 12:54:37 INFO tests.TestChooseGift: Begin test
+21/07/19 12:54:38 INFO pages.MainPage: Click on the dropdown price was successful.
+21/07/19 12:54:38 INFO pages.MainPage: Click on the price price was successful.
+21/07/19 12:54:38 INFO pages.MainPage: Click on the area/district dropdown was successful.
+21/07/19 12:54:38 INFO pages.MainPage: Click on the area/district within list of areas was successful.
+21/07/19 12:54:39 INFO pages.MainPage: Click on the category dropdown was successful.
+21/07/19 12:54:39 INFO pages.MainPage: Click on the chosen category within dropdown was successful.
+21/07/19 12:54:39 INFO pages.MainPage: Click on the search button was successful.
+21/07/19 12:54:41 INFO tests.TestChooseGift: Test finish
+21/07/19 12:59:21 INFO tests.TestChooseGift: Begin test
+21/07/19 12:59:21 INFO pages.BasePage: The click on element: spanwas successful.
+21/07/19 12:59:21 INFO pages.BasePage: The click on element: buttonwas successful.
+21/07/19 12:59:22 INFO pages.BasePage: The click on element: awas successful.
+21/07/19 12:59:22 INFO pages.MainPage: Click on the dropdown price was successful.
+21/07/19 12:59:36 ERROR pages.MainPage:  An error occurred while clicking on price within price list
+21/07/19 12:59:36 INFO pages.MainPage: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@class='chosen-results']/li[3]"}
+  (Session info: chrome=91.0.4472.124)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60788}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 10e1a26a81ce4c99cfb5c311ca3c277c
+*** Element info: {Using=xpath, value=//ul[@class='chosen-results']/li[3]}
+21/07/19 12:59:36 INFO pages.BasePage: The click on element: spanwas successful.
+21/07/19 12:59:36 INFO pages.MainPage: Click on the area/district dropdown was successful.
+21/07/19 12:59:50 ERROR pages.MainPage:  An error occurred while clicking on area/district within the list
+21/07/19 12:59:50 INFO pages.MainPage: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='chosen-drop']/ul[@class='chosen-results']/li[text()='צפון']"}
+  (Session info: chrome=91.0.4472.124)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60788}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 10e1a26a81ce4c99cfb5c311ca3c277c
+*** Element info: {Using=xpath, value=//div[@class='chosen-drop']/ul[@class='chosen-results']/li[text()='צפון']}
+21/07/19 12:59:51 INFO pages.BasePage: The click on element: spanwas successful.
+21/07/19 12:59:51 INFO pages.MainPage: Click on the category dropdown was successful.
+21/07/19 13:00:05 ERROR pages.MainPage:  An error occurred while clicking on chosen category
+21/07/19 13:00:05 INFO pages.MainPage: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='chosen-drop']/ul[@class='chosen-results']/li[text()='גיפט קארד לארוחת בוקר ובתי קפה']"}
+  (Session info: chrome=91.0.4472.124)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60788}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 10e1a26a81ce4c99cfb5c311ca3c277c
+*** Element info: {Using=xpath, value=//div[@class='chosen-drop']/ul[@class='chosen-results']/li[text()='גיפט קארד לארוחת בוקר ובתי קפה']}
+21/07/19 13:00:05 INFO pages.BasePage: The click on element: awas successful.
+21/07/19 13:00:05 INFO pages.MainPage: Click on the search button was successful.
+21/07/19 13:00:06 INFO pages.BasePage: The click on element: divwas successful.
+21/07/19 13:00:06 INFO tests.TestChooseGift: Test finish
+21/07/19 13:01:50 INFO tests.TestChooseGift: Begin test
+21/07/19 13:01:50 INFO pages.BasePage: The click on element: כניסה was successful.
+21/07/19 13:01:51 INFO pages.BasePage: The click on element:  was successful.
+21/07/19 13:01:51 INFO pages.BasePage: The click on element: סכום was successful.
+21/07/19 13:01:51 INFO pages.MainPage: Click on the dropdown price was successful.
+21/07/19 13:02:05 ERROR pages.MainPage:  An error occurred while clicking on price within price list
+21/07/19 13:02:05 INFO pages.MainPage: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@class='chosen-results']/li[3]"}
+  (Session info: chrome=91.0.4472.124)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61368}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8e08375a82b5ee14ecd6fa067acffa64
+*** Element info: {Using=xpath, value=//ul[@class='chosen-results']/li[3]}
+21/07/19 13:02:05 INFO pages.BasePage: The click on element: אזור was successful.
+21/07/19 13:02:05 INFO pages.MainPage: Click on the area/district dropdown was successful.
+21/07/19 13:02:20 ERROR pages.MainPage:  An error occurred while clicking on area/district within the list
+21/07/19 13:02:20 INFO pages.MainPage: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='chosen-drop']/ul[@class='chosen-results']/li[text()='צפון']"}
+  (Session info: chrome=91.0.4472.124)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61368}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8e08375a82b5ee14ecd6fa067acffa64
+*** Element info: {Using=xpath, value=//div[@class='chosen-drop']/ul[@class='chosen-results']/li[text()='צפון']}
+21/07/19 13:02:20 INFO pages.BasePage: The click on element: קטגוריה was successful.
+21/07/19 13:02:20 INFO pages.MainPage: Click on the category dropdown was successful.
+21/07/19 13:02:34 ERROR pages.MainPage:  An error occurred while clicking on chosen category
+21/07/19 13:02:34 INFO pages.MainPage: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='chosen-drop']/ul[@class='chosen-results']/li[text()='גיפט קארד לארוחת בוקר ובתי קפה']"}
+  (Session info: chrome=91.0.4472.124)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61368}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8e08375a82b5ee14ecd6fa067acffa64
+*** Element info: {Using=xpath, value=//div[@class='chosen-drop']/ul[@class='chosen-results']/li[text()='גיפט קארד לארוחת בוקר ובתי קפה']}
+21/07/19 13:02:35 INFO pages.BasePage: The click on element: תמצאו לי מתנה was successful.
+21/07/19 13:02:35 INFO pages.MainPage: Click on the search button was successful.
+21/07/19 13:02:36 INFO pages.BasePage: The click on element: קפה גרג was successful.
+21/07/19 13:02:36 INFO tests.TestChooseGift: Test finish
+21/07/19 13:06:16 INFO tests.TestChooseGift: Begin test
+21/07/19 13:06:16 INFO pages.BasePage: The click on element: כניסה was successful.
+21/07/19 13:06:17 INFO pages.BasePage: The click on element:  was successful.
+21/07/19 13:06:18 INFO pages.BasePage: The click on element: סכום was successful.
+21/07/19 13:06:18 INFO pages.MainPage: Click on the dropdown price was successful.
+21/07/19 13:06:32 ERROR pages.MainPage:  An error occurred while clicking on price within price list
+21/07/19 13:06:33 INFO pages.MainPage: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@class='chosen-results']/li[3]"}
+  (Session info: chrome=91.0.4472.124)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52094}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6006080a681cc7fbe0906de2979da783
+*** Element info: {Using=xpath, value=//ul[@class='chosen-results']/li[3]}
+21/07/19 13:06:33 INFO pages.BasePage: The click on element: אזור was successful.
+21/07/19 13:06:33 INFO pages.MainPage: Click on the area/district dropdown was successful.
+21/07/19 13:06:47 ERROR pages.MainPage:  An error occurred while clicking on area/district within the list
+21/07/19 13:06:47 INFO pages.MainPage: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='chosen-drop']/ul[@class='chosen-results']/li[text()='צפון']"}
+  (Session info: chrome=91.0.4472.124)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52094}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6006080a681cc7fbe0906de2979da783
+*** Element info: {Using=xpath, value=//div[@class='chosen-drop']/ul[@class='chosen-results']/li[text()='צפון']}
+21/07/19 13:06:47 INFO pages.BasePage: The click on element: קטגוריה was successful.
+21/07/19 13:06:47 INFO pages.MainPage: Click on the category dropdown was successful.
+21/07/19 13:07:02 ERROR pages.MainPage:  An error occurred while clicking on chosen category
+21/07/19 13:07:02 INFO pages.MainPage: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='chosen-drop']/ul[@class='chosen-results']/li[text()='גיפט קארד לארוחת בוקר ובתי קפה']"}
+  (Session info: chrome=91.0.4472.124)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52094}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6006080a681cc7fbe0906de2979da783
+*** Element info: {Using=xpath, value=//div[@class='chosen-drop']/ul[@class='chosen-results']/li[text()='גיפט קארד לארוחת בוקר ובתי קפה']}
+21/07/19 13:07:02 INFO pages.BasePage: The click on element: תמצאו לי מתנה was successful.
+21/07/19 13:07:02 INFO pages.MainPage: Click on the search button was successful.
+21/07/19 13:07:04 INFO pages.BasePage: The click on element: קפה גרג was successful.
+21/07/19 13:07:04 INFO tests.TestChooseGift: Test finish
+21/07/19 13:07:59 INFO tests.TestChooseGift: Begin test
+21/07/19 13:07:59 INFO pages.BasePage: The click on element: כניסה was successful.
+21/07/19 13:08:00 INFO pages.BasePage: The click on element:  was successful.
+21/07/19 13:08:00 INFO pages.BasePage: The click on element: סכום was successful.
+21/07/19 13:08:00 INFO pages.MainPage: Click on the dropdown price was successful.
+21/07/19 13:08:14 ERROR pages.MainPage:  An error occurred while clicking on price within price list
+21/07/19 13:08:15 INFO pages.MainPage: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@class='chosen-results']/li[3]"}
+  (Session info: chrome=91.0.4472.124)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49833}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 74d941fcf1981e5fdee034d4b92e96a0
+*** Element info: {Using=xpath, value=//ul[@class='chosen-results']/li[3]}
+21/07/19 13:08:15 INFO pages.BasePage: The click on element: אזור was successful.
+21/07/19 13:08:15 INFO pages.MainPage: Click on the area/district dropdown was successful.
+21/07/19 13:08:29 ERROR pages.MainPage:  An error occurred while clicking on area/district within the list
+21/07/19 13:08:29 INFO pages.MainPage: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='chosen-drop']/ul[@class='chosen-results']/li[text()='צפון']"}
+  (Session info: chrome=91.0.4472.124)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49833}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 74d941fcf1981e5fdee034d4b92e96a0
+*** Element info: {Using=xpath, value=//div[@class='chosen-drop']/ul[@class='chosen-results']/li[text()='צפון']}
+21/07/19 13:08:30 INFO pages.BasePage: The click on element: קטגוריה was successful.
+21/07/19 13:08:30 INFO pages.MainPage: Click on the category dropdown was successful.
+21/07/19 13:08:44 ERROR pages.MainPage:  An error occurred while clicking on chosen category
+21/07/19 13:08:44 INFO pages.MainPage: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='chosen-drop']/ul[@class='chosen-results']/li[text()='גיפט קארד לארוחת בוקר ובתי קפה']"}
+  (Session info: chrome=91.0.4472.124)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49833}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 74d941fcf1981e5fdee034d4b92e96a0
+*** Element info: {Using=xpath, value=//div[@class='chosen-drop']/ul[@class='chosen-results']/li[text()='גיפט קארד לארוחת בוקר ובתי קפה']}
+21/07/19 13:08:44 INFO pages.BasePage: The click on element: תמצאו לי מתנה was successful.
+21/07/19 13:08:44 INFO pages.MainPage: Click on the search button was successful.
+21/07/19 13:08:46 INFO pages.BasePage: The click on element: קפה גרג was successful.
+21/07/19 13:08:46 INFO tests.TestChooseGift: Test finish
+21/07/19 13:17:09 INFO tests.TestChooseGift: Begin test
+21/07/19 13:17:10 INFO pages.MainPage: Click on the dropdown price was successful.
+21/07/19 13:17:10 INFO pages.MainPage: Click on the price price was successful.
+21/07/19 13:17:11 INFO pages.MainPage: Click on the area/district dropdown was successful.
+21/07/19 13:17:11 INFO pages.MainPage: Click on the area/district within list of areas was successful.
+21/07/19 13:17:11 INFO pages.MainPage: Click on the category dropdown was successful.
+21/07/19 13:17:11 INFO pages.MainPage: Click on the chosen category within dropdown was successful.
+21/07/19 13:17:11 INFO pages.MainPage: Click on the search button was successful.
+21/07/19 13:17:13 INFO tests.TestChooseGift: Test finish
+21/07/19 13:17:47 INFO tests.TestChooseGift: Begin test
+21/07/19 13:17:47 INFO pages.MainPage: Click on the dropdown price was successful.
+21/07/19 13:17:47 INFO pages.MainPage: Click on the price price was successful.
+21/07/19 13:17:47 INFO pages.MainPage: Click on the area/district dropdown was successful.
+21/07/19 13:17:47 INFO pages.MainPage: Click on the area/district within list of areas was successful.
+21/07/19 13:17:47 INFO pages.MainPage: Click on the category dropdown was successful.
+21/07/19 13:17:47 INFO pages.MainPage: Click on the chosen category within dropdown was successful.
+21/07/19 13:17:47 INFO pages.MainPage: Click on the search button was successful.
+21/07/19 13:17:49 INFO tests.TestChooseGift: Test finish
+21/07/19 17:17:28 INFO tests.TestGiftSubmit: Begin test Optional[class tests.TestGiftSubmit]
+21/07/19 17:17:29 INFO pages.MainPage: Click on the dropdown price was successful.
+21/07/19 17:17:29 INFO pages.MainPage: Click on the price price was successful.
+21/07/19 17:17:29 INFO pages.MainPage: Click on the area/district dropdown was successful.
+21/07/19 17:17:29 INFO pages.MainPage: Click on the area/district within list of areas was successful.
+21/07/19 17:17:29 INFO pages.MainPage: Click on the category dropdown was successful.
+21/07/19 17:17:30 INFO pages.MainPage: Click on the chosen category within dropdown was successful.
+21/07/19 17:17:30 INFO pages.MainPage: Click on the search button was successful.
+21/07/19 17:17:35 INFO tests.TestGiftSubmit: Test finish
+21/07/19 17:18:01 INFO tests.TestChooseGift: Begin test
+21/07/19 17:18:01 INFO pages.MainPage: Click on the dropdown price was successful.
+21/07/19 17:18:01 INFO pages.MainPage: Click on the price price was successful.
+21/07/19 17:18:01 INFO pages.MainPage: Click on the area/district dropdown was successful.
+21/07/19 17:18:01 INFO pages.MainPage: Click on the area/district within list of areas was successful.
+21/07/19 17:18:02 INFO pages.MainPage: Click on the category dropdown was successful.
+21/07/19 17:18:02 INFO pages.MainPage: Click on the chosen category within dropdown was successful.
+21/07/19 17:18:02 INFO pages.MainPage: Click on the search button was successful.
+21/07/19 17:18:04 INFO tests.TestChooseGift: Test finish
+21/07/19 17:18:21 INFO tests.TestGiftSubmit: Begin test Optional[class tests.TestGiftSubmit]
+21/07/19 17:18:22 INFO pages.MainPage: Click on the dropdown price was successful.
+21/07/19 17:18:22 INFO pages.MainPage: Click on the price price was successful.
+21/07/19 17:18:22 INFO pages.MainPage: Click on the area/district dropdown was successful.
+21/07/19 17:18:22 INFO pages.MainPage: Click on the area/district within list of areas was successful.
+21/07/19 17:18:22 INFO pages.MainPage: Click on the category dropdown was successful.
+21/07/19 17:18:22 INFO pages.MainPage: Click on the chosen category within dropdown was successful.
+21/07/19 17:18:23 INFO pages.MainPage: Click on the search button was successful.
+21/07/19 17:18:28 INFO tests.TestGiftSubmit: Test finish
+21/07/19 17:20:15 INFO tests.TestChooseGift: Begin test
+21/07/19 17:20:16 INFO pages.MainPage: Click on the dropdown price was successful.
+21/07/19 17:20:16 INFO pages.MainPage: Click on the price price was successful.
+21/07/19 17:20:16 INFO pages.MainPage: Click on the area/district dropdown was successful.
+21/07/19 17:20:16 INFO pages.MainPage: Click on the area/district within list of areas was successful.
+21/07/19 17:20:16 INFO pages.MainPage: Click on the category dropdown was successful.
+21/07/19 17:20:16 INFO pages.MainPage: Click on the chosen category within dropdown was successful.
+21/07/19 17:20:17 INFO pages.MainPage: Click on the search button was successful.
+21/07/19 17:20:27 INFO tests.TestChooseGift: Test finish
+21/07/19 17:21:05 INFO tests.TestChooseGift: Begin test
+21/07/19 17:21:05 INFO pages.MainPage: Click on the dropdown price was successful.
+21/07/19 17:21:05 INFO pages.MainPage: Click on the price price was successful.
+21/07/19 17:21:05 INFO pages.MainPage: Click on the area/district dropdown was successful.
+21/07/19 17:21:05 INFO pages.MainPage: Click on the area/district within list of areas was successful.
+21/07/19 17:21:05 INFO pages.MainPage: Click on the category dropdown was successful.
+21/07/19 17:21:05 INFO pages.MainPage: Click on the chosen category within dropdown was successful.
+21/07/19 17:21:05 INFO pages.MainPage: Click on the search button was successful.
+21/07/19 17:21:16 INFO tests.TestChooseGift: Test finish
+21/07/19 17:35:03 INFO tests.TestChooseGift: Begin test
+21/07/19 17:35:03 INFO pages.MainPage: Click on the dropdown price was successful.
+21/07/19 17:35:03 INFO pages.MainPage: Click on the price price was successful.
+21/07/19 17:35:03 INFO pages.MainPage: Click on the area/district dropdown was successful.
+21/07/19 17:35:03 INFO pages.MainPage: Click on the area/district within list of areas was successful.
+21/07/19 17:35:03 INFO pages.MainPage: Click on the category dropdown was successful.
+21/07/19 17:35:04 INFO pages.MainPage: Click on the chosen category within dropdown was successful.
+21/07/19 17:35:04 INFO pages.MainPage: Click on the search button was successful.
+21/07/19 17:35:09 INFO pages.PurchasingPage: Text typed successful into receiver name field.
+21/07/19 17:35:09 INFO pages.PurchasingPage: Celebrating reason dropdown clicked successful.
+21/07/19 17:35:09 INFO pages.PurchasingPage: Celebrating reason chose successful.
+21/07/19 17:35:10 INFO pages.PurchasingPage: The text typed successful into celebrating text field.
+21/07/19 17:35:10 INFO pages.PurchasingPage: The image uploaded successful.
+21/07/19 17:35:11 INFO pages.PurchasingPage: Submit button clicked successful.
+21/07/19 17:35:14 INFO tests.TestChooseGift: Test finish
+21/07/19 17:36:56 INFO tests.TestChooseGift: Begin test
+21/07/19 17:36:57 INFO pages.MainPage: Click on the dropdown price was successful.
+21/07/19 17:36:57 INFO pages.MainPage: Click on the price price was successful.
+21/07/19 17:36:57 INFO pages.MainPage: Click on the area/district dropdown was successful.
+21/07/19 17:36:57 INFO pages.MainPage: Click on the area/district within list of areas was successful.
+21/07/19 17:36:57 INFO pages.MainPage: Click on the category dropdown was successful.
+21/07/19 17:36:57 INFO pages.MainPage: Click on the chosen category within dropdown was successful.
+21/07/19 17:36:57 INFO pages.MainPage: Click on the search button was successful.
+21/07/19 17:37:02 INFO pages.PurchasingPage: Text typed successful into receiver name field.
+21/07/19 17:37:02 INFO pages.PurchasingPage: Celebrating reason dropdown clicked successful.
+21/07/19 17:37:02 INFO pages.PurchasingPage: Celebrating reason chose successful.
+21/07/19 17:37:03 INFO pages.PurchasingPage: The text typed successful into celebrating text field.
+21/07/19 17:37:03 INFO pages.PurchasingPage: The image uploaded successful.
+21/07/19 17:37:04 INFO pages.PurchasingPage: Submit button clicked successful.
+21/07/19 17:37:07 INFO tests.TestChooseGift: Test finish
+21/07/19 17:38:34 INFO tests.TestChooseGift: Begin test
+21/07/19 17:38:34 INFO pages.MainPage: Click on the dropdown price was successful.
+21/07/19 17:38:34 INFO pages.MainPage: Click on the price price was successful.
+21/07/19 17:38:34 INFO pages.MainPage: Click on the area/district dropdown was successful.
+21/07/19 17:38:34 INFO pages.MainPage: Click on the area/district within list of areas was successful.
+21/07/19 17:38:34 INFO pages.MainPage: Click on the category dropdown was successful.
+21/07/19 17:38:34 INFO pages.MainPage: Click on the chosen category within dropdown was successful.
+21/07/19 17:38:34 INFO pages.MainPage: Click on the search button was successful.
+21/07/19 17:38:39 INFO pages.PurchasingPage: Text typed successful into receiver name field.
+21/07/19 17:38:39 INFO pages.PurchasingPage: Celebrating reason dropdown clicked successful.
+21/07/19 17:38:40 INFO pages.PurchasingPage: Celebrating reason chose successful.
+21/07/19 17:38:40 INFO pages.PurchasingPage: The text typed successful into celebrating text field.
+21/07/19 17:38:40 INFO pages.PurchasingPage: The image uploaded successful.
+21/07/19 17:38:41 INFO pages.PurchasingPage: Submit button clicked successful.
+21/07/19 17:38:45 INFO tests.TestChooseGift: Test finish
+21/07/19 17:43:32 INFO tests.Test_Registration: Begin test
+21/07/19 17:43:32 INFO pages.RegistrationPage: The username field filled successfully.
+21/07/19 17:43:32 INFO pages.RegistrationPage: The email field filled successfully.
+21/07/19 17:43:33 INFO pages.RegistrationPage: The password field filled successfully.
+21/07/19 17:43:33 INFO pages.RegistrationPage: The password verification field filled successfully.
+21/07/19 17:43:34 INFO tests.Test_Registration: Test finish
+21/07/19 17:44:01 INFO tests.TestChooseGift: Begin test
+21/07/19 17:44:01 INFO pages.MainPage: Click on the dropdown price was successful.
+21/07/19 17:44:01 INFO pages.MainPage: Click on the price price was successful.
+21/07/19 17:44:01 INFO pages.MainPage: Click on the area/district dropdown was successful.
+21/07/19 17:44:01 INFO pages.MainPage: Click on the area/district within list of areas was successful.
+21/07/19 17:44:01 INFO pages.MainPage: Click on the category dropdown was successful.
+21/07/19 17:44:01 INFO pages.MainPage: Click on the chosen category within dropdown was successful.
+21/07/19 17:44:01 INFO pages.MainPage: Click on the search button was successful.
+21/07/19 17:44:03 INFO tests.TestChooseGift: Test finish
+21/07/19 17:44:27 INFO tests.TestGiftSubmit: Begin test Optional[class tests.TestGiftSubmit]
+21/07/19 17:44:29 INFO pages.MainPage: Click on the dropdown price was successful.
+21/07/19 17:44:29 INFO pages.MainPage: Click on the price price was successful.
+21/07/19 17:44:29 INFO pages.MainPage: Click on the area/district dropdown was successful.
+21/07/19 17:44:29 INFO pages.MainPage: Click on the area/district within list of areas was successful.
+21/07/19 17:44:29 INFO pages.MainPage: Click on the category dropdown was successful.
+21/07/19 17:44:29 INFO pages.MainPage: Click on the chosen category within dropdown was successful.
+21/07/19 17:44:29 INFO pages.MainPage: Click on the search button was successful.
+21/07/19 17:44:35 INFO tests.TestGiftSubmit: Test finish
+21/07/19 17:45:11 INFO tests.TestChooseGift: Begin test
+21/07/19 17:45:11 INFO pages.MainPage: Click on the dropdown price was successful.
+21/07/19 17:45:11 INFO pages.MainPage: Click on the price price was successful.
+21/07/19 17:45:11 INFO pages.MainPage: Click on the area/district dropdown was successful.
+21/07/19 17:45:11 INFO pages.MainPage: Click on the area/district within list of areas was successful.
+21/07/19 17:45:12 INFO pages.MainPage: Click on the category dropdown was successful.
+21/07/19 17:45:12 INFO pages.MainPage: Click on the chosen category within dropdown was successful.
+21/07/19 17:45:12 INFO pages.MainPage: Click on the search button was successful.
+21/07/19 17:45:17 INFO pages.PurchasingPage: Text typed successful into receiver name field.
+21/07/19 17:45:17 INFO pages.PurchasingPage: Celebrating reason dropdown clicked successful.
+21/07/19 17:45:17 INFO pages.PurchasingPage: Celebrating reason chose successful.
+21/07/19 17:45:18 INFO pages.PurchasingPage: The text typed successful into celebrating text field.
+21/07/19 17:45:18 ERROR pages.PurchasingPage: An error occurred while uploading image.
+21/07/19 17:45:18 INFO pages.PurchasingPage: org.openqa.selenium.InvalidArgumentException: invalid argument: File not found : C:\Users\de_mu\Desktop\Java\Qualitest\BuyMe\images\*.png
+  (Session info: chrome=91.0.4472.124)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51253}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7f80b46542648cad83d5bc01ebd85f8e
+21/07/19 17:45:18 INFO pages.PurchasingPage: Submit button clicked successful.
+21/07/19 17:45:19 INFO tests.TestChooseGift: Test finish
+21/07/19 17:48:52 INFO tests.TestChooseGift: Begin test
+21/07/19 17:48:52 INFO pages.MainPage: Click on the dropdown price was successful.
+21/07/19 17:48:52 INFO pages.MainPage: Click on the price price was successful.
+21/07/19 17:48:52 INFO pages.MainPage: Click on the area/district dropdown was successful.
+21/07/19 17:48:52 INFO pages.MainPage: Click on the area/district within list of areas was successful.
+21/07/19 17:48:52 INFO pages.MainPage: Click on the category dropdown was successful.
+21/07/19 17:48:52 INFO pages.MainPage: Click on the chosen category within dropdown was successful.
+21/07/19 17:48:53 INFO pages.MainPage: Click on the search button was successful.
+21/07/19 17:48:57 INFO pages.PurchasingPage: Text typed successful into receiver name field.
+21/07/19 17:48:58 INFO pages.PurchasingPage: Celebrating reason dropdown clicked successful.
+21/07/19 17:48:58 INFO pages.PurchasingPage: Celebrating reason chose successful.
+21/07/19 17:48:58 INFO pages.PurchasingPage: The text typed successful into celebrating text field.
+21/07/19 17:48:58 INFO pages.PurchasingPage: The image uploaded successful.
+21/07/19 17:48:59 INFO pages.PurchasingPage: Submit button clicked successful.
+21/07/19 17:49:00 INFO tests.TestChooseGift: Test finish
+21/07/19 17:49:36 INFO tests.TestChooseGift: Begin test
+21/07/19 17:49:36 INFO pages.MainPage: Click on the dropdown price was successful.
+21/07/19 17:49:36 INFO pages.MainPage: Click on the price price was successful.
+21/07/19 17:49:36 INFO pages.MainPage: Click on the area/district dropdown was successful.
+21/07/19 17:49:36 INFO pages.MainPage: Click on the area/district within list of areas was successful.
+21/07/19 17:49:36 INFO pages.MainPage: Click on the category dropdown was successful.
+21/07/19 17:49:36 INFO pages.MainPage: Click on the chosen category within dropdown was successful.
+21/07/19 17:49:36 INFO pages.MainPage: Click on the search button was successful.
+21/07/19 17:49:41 INFO pages.PurchasingPage: Text typed successful into receiver name field.
+21/07/19 17:49:41 INFO pages.PurchasingPage: Celebrating reason dropdown clicked successful.
+21/07/19 17:49:41 ERROR pages.PurchasingPage: An error occurred while choosing celebrating reason from the list.
+21/07/19 17:49:42 INFO pages.PurchasingPage: org.openqa.selenium.ElementNotInteractableException: element not interactable: element has zero size
+  (Session info: chrome=91.0.4472.124)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54420}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2d8b8e81d49c02dac09a60cfeae7537c
+21/07/19 17:49:42 INFO pages.PurchasingPage: The text typed successful into celebrating text field.
+21/07/19 17:49:42 INFO pages.PurchasingPage: The image uploaded successful.
+21/07/19 17:49:43 INFO pages.PurchasingPage: Submit button clicked successful.
+21/07/19 17:49:44 INFO tests.TestChooseGift: Test finish
+21/07/19 17:52:58 INFO tests.TestChooseGift: Begin test
+21/07/19 17:52:58 INFO pages.MainPage: Click on the dropdown price was successful.
+21/07/19 17:52:58 INFO pages.MainPage: Click on the price price was successful.
+21/07/19 17:52:58 INFO pages.MainPage: Click on the area/district dropdown was successful.
+21/07/19 17:52:58 INFO pages.MainPage: Click on the area/district within list of areas was successful.
+21/07/19 17:52:58 INFO pages.MainPage: Click on the category dropdown was successful.
+21/07/19 17:52:58 INFO pages.MainPage: Click on the chosen category within dropdown was successful.
+21/07/19 17:52:58 INFO pages.MainPage: Click on the search button was successful.
+21/07/19 17:53:03 INFO pages.PurchasingPage: Text typed successful into receiver name field.
+21/07/19 17:53:03 INFO pages.PurchasingPage: Celebrating reason dropdown clicked successful.
+21/07/19 17:53:04 INFO pages.PurchasingPage: Celebrating reason chose successful.
+21/07/19 17:53:04 INFO pages.PurchasingPage: The text typed successful into celebrating text field.
+21/07/19 17:53:04 INFO pages.PurchasingPage: The image uploaded successful.
+21/07/19 17:53:05 INFO pages.PurchasingPage: Submit button clicked successful.
+21/07/19 17:53:06 INFO tests.TestChooseGift: Test finish
+21/07/19 18:29:20 INFO tests.Test_Registration: Test starts
+21/07/19 18:29:23 INFO tests.Test_Registration: Test finish
+21/07/19 18:32:55 INFO tests.Test_Registration: Test starts
+21/07/19 18:32:58 INFO tests.Test_Registration: Test finish
+21/07/19 18:35:21 INFO tests.Test_Registration: Test starts
+21/07/19 18:35:24 INFO tests.Test_Registration: Test finish
+21/07/19 18:38:26 INFO tests.TestBonus: Test starts Optional[public void tests.TestBonus.careerTest(org.junit.jupiter.api.TestInfo) throws java.lang.Exception]
+21/07/19 18:38:29 INFO tests.TestBonus: Test finish
+21/07/19 18:39:11 INFO tests.TestBonus: Test starts careerTest(TestInfo)
+21/07/19 18:39:14 INFO tests.TestBonus: Test finish
+21/07/19 18:40:21 INFO tests.TestBonus: Test finish
+21/07/19 18:42:00 INFO tests.TestBonus: Test finish
+21/07/19 18:42:26 INFO tests.TestBonus: Test starts careerTe
+21/07/19 18:42:29 INFO tests.TestBonus: Test finish
+21/07/19 18:43:26 INFO tests.TestBonus: Test starts: careerTest
+21/07/19 18:43:29 INFO tests.TestBonus: Test finish
+21/07/19 18:46:52 INFO tests.TestBonus: Test starts 
+21/07/19 18:46:53 INFO tests.TestBonus: Test finish
+21/07/19 18:47:19 INFO tests.TestBonus: Test starts 
+21/07/19 18:47:23 INFO tests.TestBonus: Test finish
+21/07/19 18:55:08 INFO tests.TestBonus: Test starts 
+21/07/19 18:55:19 INFO tests.TestBonus: Test finish
+21/07/19 18:58:28 INFO tests.TestBonus: Test starts 
+21/07/19 18:58:32 INFO tests.TestBonus: Test finish
+21/07/19 18:59:07 INFO tests.TestBonus: Test starts 
+21/07/19 18:59:08 INFO tests.TestBonus: Test finish
+21/07/19 19:00:03 INFO tests.TestBonus: Test starts 
+21/07/19 19:00:04 INFO tests.TestBonus: Test starts: careerTest
+21/07/19 19:00:05 INFO tests.TestBonus: Test finish
+21/07/19 19:01:32 INFO tests.TestBonus: Test starts 
+21/07/19 19:01:32 INFO tests.TestBonus: Test starts: careerTest
+21/07/19 19:01:34 INFO tests.TestBonus: Test finish
+21/07/19 19:05:24 INFO tests.TestBonus: Test starts 
+21/07/19 19:05:24 INFO tests.TestBonus: Test starts: careerTest
+21/07/19 19:05:26 INFO tests.TestBonus: Test finish
+21/07/19 19:12:19 INFO tests.TestBonus: Test starts 
+21/07/19 19:12:19 INFO tests.TestBonus: Test starts: careerTest
+21/07/19 19:12:21 INFO tests.TestBonus: Test finish
+21/07/19 19:15:44 INFO tests.TestBonus: Test starts: careerTest
+21/07/19 19:15:47 INFO tests.TestBonus: Test starts 
+21/07/19 19:15:54 INFO tests.TestBonus: Test finish
+21/07/19 19:18:34 INFO tests.TestBonus: Test starts: careerTest
+21/07/19 19:18:37 INFO tests.TestBonus: Test starts 
+21/07/19 19:18:44 INFO tests.TestBonus: Test finish
+21/07/19 19:20:00 INFO tests.TestBonus: Test starts: careerTest
+21/07/19 19:20:03 INFO tests.TestBonus: Test starts 
+21/07/19 19:20:04 INFO tests.TestBonus: Test finish
+21/07/19 20:46:54 INFO tests.TestBonus: Test starts: careerTest
+21/07/19 20:46:57 INFO tests.TestBonus: Test starts 
+21/07/19 20:46:58 INFO tests.TestBonus: Test finish
+21/07/19 20:48:06 INFO tests.TestBonus: Test starts: careerTest
+21/07/19 20:48:09 INFO tests.TestBonus: Test starts: errorMsgOnLogin
+21/07/19 20:48:10 INFO tests.TestBonus: Test finish
+21/07/20 15:34:31 INFO tests.Test_Registration: Begin test
+21/07/20 15:34:31 INFO pages.RegistrationPage: The username field filled successfully.
+21/07/20 15:34:32 INFO pages.RegistrationPage: The email field filled successfully.
+21/07/20 15:34:32 INFO pages.RegistrationPage: The password field filled successfully.
+21/07/20 15:34:32 INFO pages.RegistrationPage: The password verification field filled successfully.
+21/07/20 15:34:33 INFO tests.Test_Registration: Test finish
+21/07/20 15:38:01 INFO tests.Test_Registration: Begin test
+21/07/20 15:38:02 INFO pages.RegistrationPage: The username field filled successfully.
+21/07/20 15:38:02 INFO pages.RegistrationPage: The email field filled successfully.
+21/07/20 15:38:02 INFO pages.RegistrationPage: The password field filled successfully.
+21/07/20 15:38:03 INFO pages.RegistrationPage: The password verification field filled successfully.
+21/07/20 15:38:03 INFO tests.Test_Registration: Test finish
+21/07/20 15:38:23 INFO tests.TestChooseGift: Begin test
+21/07/20 15:38:23 INFO pages.MainPage: Click on the dropdown price was successful.
+21/07/20 15:38:23 INFO pages.MainPage: Click on the price price was successful.
+21/07/20 15:38:23 INFO pages.MainPage: Click on the area/district dropdown was successful.
+21/07/20 15:38:23 INFO pages.MainPage: Click on the area/district within list of areas was successful.
+21/07/20 15:38:23 INFO pages.MainPage: Click on the category dropdown was successful.
+21/07/20 15:38:23 INFO pages.MainPage: Click on the chosen category within dropdown was successful.
+21/07/20 15:38:24 INFO pages.MainPage: Click on the search button was successful.
+21/07/20 15:38:25 INFO tests.TestChooseGift: Test finish
+21/07/20 15:38:53 INFO tests.TestGiftSubmit: Begin test Optional[class tests.TestGiftSubmit]
+21/07/20 15:38:55 INFO pages.MainPage: Click on the dropdown price was successful.
+21/07/20 15:38:55 INFO pages.MainPage: Click on the price price was successful.
+21/07/20 15:38:55 INFO pages.MainPage: Click on the area/district dropdown was successful.
+21/07/20 15:38:55 INFO pages.MainPage: Click on the area/district within list of areas was successful.
+21/07/20 15:38:55 INFO pages.MainPage: Click on the category dropdown was successful.
+21/07/20 15:38:55 INFO pages.MainPage: Click on the chosen category within dropdown was successful.
+21/07/20 15:38:55 INFO pages.MainPage: Click on the search button was successful.
+21/07/20 15:39:00 INFO tests.TestGiftSubmit: Test finish
+21/07/20 15:39:55 INFO tests.TestChooseGift: Begin test
+21/07/20 15:39:55 INFO pages.MainPage: Click on the dropdown price was successful.
+21/07/20 15:39:55 INFO pages.MainPage: Click on the price price was successful.
+21/07/20 15:39:55 INFO pages.MainPage: Click on the area/district dropdown was successful.
+21/07/20 15:39:55 INFO pages.MainPage: Click on the area/district within list of areas was successful.
+21/07/20 15:39:55 INFO pages.MainPage: Click on the category dropdown was successful.
+21/07/20 15:39:55 INFO pages.MainPage: Click on the chosen category within dropdown was successful.
+21/07/20 15:39:56 INFO pages.MainPage: Click on the search button was successful.
+21/07/20 15:40:01 INFO pages.PurchasingPage: Text typed successful into receiver name field.
+21/07/20 15:40:01 INFO pages.PurchasingPage: Celebrating reason dropdown clicked successful.
+21/07/20 15:40:01 INFO pages.PurchasingPage: Celebrating reason chose successful.
+21/07/20 15:40:02 INFO pages.PurchasingPage: The text typed successful into celebrating text field.
+21/07/20 15:40:02 INFO pages.PurchasingPage: The image uploaded successful.
+21/07/20 15:40:03 INFO pages.PurchasingPage: Submit button clicked successful.
+21/07/20 15:40:04 INFO tests.TestChooseGift: Test finish
+21/07/20 15:41:06 INFO tests.TestBonus: Test starts: careerTest
+21/07/20 15:41:09 INFO tests.TestBonus: Test starts: errorMsgOnLogin
+21/07/20 15:41:10 INFO tests.TestBonus: Test finish
+21/07/20 15:56:34 INFO tests.TestBonus: Test starts: careerTest
+21/07/20 15:56:37 INFO tests.TestBonus: Test starts: errorMsgOnLogin
+21/07/20 15:56:38 INFO pages.MainPage: Click on login button was successful.
+21/07/20 15:56:38 INFO pages.LoginPage: The username field filled successful.
+21/07/20 15:56:38 INFO pages.LoginPage: The password field filled successful.
+21/07/20 15:56:38 INFO pages.LoginPage: Click on submit button successful.
+21/07/20 15:56:38 INFO tests.TestBonus: Test finish
+21/07/20 16:00:15 INFO tests.TestBonus: Test starts: careerTest
+21/07/20 16:00:16 INFO pages.MainPage: Scrolling to career link successful.
+21/07/20 16:00:16 INFO pages.MainPage: Click on career link successful.
+21/07/20 16:00:19 INFO tests.TestBonus: Test starts: errorMsgOnLogin
+21/07/20 16:00:19 INFO pages.MainPage: Click on login button was successful.
+21/07/20 16:00:19 INFO pages.LoginPage: The username field filled successful.
+21/07/20 16:00:20 INFO pages.LoginPage: The password field filled successful.
+21/07/20 16:00:20 INFO pages.LoginPage: Click on submit button successful.
+21/07/20 16:00:20 INFO tests.TestBonus: Test finish
+21/07/20 16:02:07 INFO tests.TestGiftSubmit: Begin test Optional[class tests.TestGiftSubmit]
+21/07/20 16:02:07 INFO pages.MainPage: Click on login button was successful.
+21/07/20 16:02:08 INFO pages.MainPage: Click on the dropdown price was successful.
+21/07/20 16:02:08 INFO pages.MainPage: Click on the price price was successful.
+21/07/20 16:02:08 INFO pages.MainPage: Click on the area/district dropdown was successful.
+21/07/20 16:02:08 INFO pages.MainPage: Click on the area/district within list of areas was successful.
+21/07/20 16:02:08 INFO pages.MainPage: Click on the category dropdown was successful.
+21/07/20 16:02:09 INFO pages.MainPage: Click on the chosen category within dropdown was successful.
+21/07/20 16:02:09 INFO pages.MainPage: Click on the search button was successful.
+21/07/20 16:02:14 INFO tests.TestGiftSubmit: Test finish
+21/07/20 16:02:19 INFO tests.TestChooseGift: Begin test
+21/07/20 16:02:19 INFO pages.MainPage: Click on the dropdown price was successful.
+21/07/20 16:02:19 INFO pages.MainPage: Click on the price price was successful.
+21/07/20 16:02:19 INFO pages.MainPage: Click on the area/district dropdown was successful.
+21/07/20 16:02:19 INFO pages.MainPage: Click on the area/district within list of areas was successful.
+21/07/20 16:02:19 INFO pages.MainPage: Click on the category dropdown was successful.
+21/07/20 16:02:19 INFO pages.MainPage: Click on the chosen category within dropdown was successful.
+21/07/20 16:02:19 INFO pages.MainPage: Click on the search button was successful.
+21/07/20 16:02:20 INFO tests.TestChooseGift: Test finish
+21/07/20 16:02:25 INFO tests.TestChooseGift: Begin test
+21/07/20 16:02:26 INFO pages.MainPage: Click on the dropdown price was successful.
+21/07/20 16:02:26 INFO pages.MainPage: Click on the price price was successful.
+21/07/20 16:02:26 INFO pages.MainPage: Click on the area/district dropdown was successful.
+21/07/20 16:02:26 INFO pages.MainPage: Click on the area/district within list of areas was successful.
+21/07/20 16:02:26 INFO pages.MainPage: Click on the category dropdown was successful.
+21/07/20 16:02:26 INFO pages.MainPage: Click on the chosen category within dropdown was successful.
+21/07/20 16:02:26 INFO pages.MainPage: Click on the search button was successful.
+21/07/20 16:02:31 INFO pages.PurchasingPage: Text typed successful into receiver name field.
+21/07/20 16:02:31 INFO pages.PurchasingPage: Celebrating reason dropdown clicked successful.
+21/07/20 16:02:31 INFO pages.PurchasingPage: Celebrating reason chose successful.
+21/07/20 16:02:32 INFO pages.PurchasingPage: The text typed successful into celebrating text field.
+21/07/20 16:02:32 INFO pages.PurchasingPage: The image uploaded successful.
+21/07/20 16:02:33 INFO pages.PurchasingPage: Submit button clicked successful.
+21/07/20 16:02:34 INFO tests.TestChooseGift: Test finish
+21/07/20 16:02:40 INFO tests.TestBonus: Test starts: careerTest
+21/07/20 16:02:40 INFO pages.MainPage: Scrolling to career link successful.
+21/07/20 16:02:40 INFO pages.MainPage: Click on career link successful.
+21/07/20 16:02:43 INFO tests.TestBonus: Test starts: errorMsgOnLogin
+21/07/20 16:02:43 INFO pages.MainPage: Click on login button was successful.
+21/07/20 16:02:44 INFO pages.LoginPage: The username field filled successful.
+21/07/20 16:02:44 INFO pages.LoginPage: The password field filled successful.
+21/07/20 16:02:44 INFO pages.LoginPage: Click on submit button successful.
+21/07/20 16:02:44 INFO tests.TestBonus: Test finish
+21/07/20 16:02:49 INFO tests.Test_Registration: Begin test
+21/07/20 16:02:49 INFO pages.MainPage: Click on login button was successful.
+21/07/20 16:02:50 INFO pages.RegistrationPage: The username field filled successfully.
+21/07/20 16:02:50 INFO pages.RegistrationPage: The email field filled successfully.
+21/07/20 16:02:50 INFO pages.RegistrationPage: The password field filled successfully.
+21/07/20 16:02:50 INFO pages.RegistrationPage: The password verification field filled successfully.
+21/07/20 16:02:51 INFO tests.Test_Registration: Test finish
+21/07/20 16:06:52 INFO tests.TestGiftSubmit: Begin test Optional[class tests.TestGiftSubmit]
+21/07/20 16:06:52 INFO pages.MainPage: Click on login button was successful.
+21/07/20 16:06:54 ERROR pages.MainPage:  An error occurred while clicking on dropdown price
+21/07/20 16:06:54 INFO pages.MainPage: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="chosen-single" tabindex="-1">...</a> is not clickable at point (1221, 425). Other element would receive the click: <div class="inner">...</div>
+  (Session info: chrome=91.0.4472.124)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58579}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: be27c306a7826aff664a7ab48bbda540
+21/07/20 16:07:01 ERROR pages.MainPage:  An error occurred while clicking on price within price list
+21/07/20 16:07:01 INFO pages.MainPage: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@class='chosen-results']/li[3]"}
+  (Session info: chrome=91.0.4472.124)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58579}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: be27c306a7826aff664a7ab48bbda540
+*** Element info: {Using=xpath, value=//ul[@class='chosen-results']/li[3]}
+21/07/20 16:07:02 ERROR pages.MainPage:  An error occurred while clicking on area/district within dropdown list
+21/07/20 16:07:02 INFO pages.MainPage: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <span>...</span> is not clickable at point (1006, 425). Other element would receive the click: <div class="option easy">...</div>
+  (Session info: chrome=91.0.4472.124)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58579}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: be27c306a7826aff664a7ab48bbda540
+21/07/20 16:07:09 ERROR pages.MainPage:  An error occurred while clicking on area/district within the list
+21/07/20 16:07:09 INFO pages.MainPage: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='chosen-drop']/ul[@class='chosen-results']/li[text()='צפון']"}
+  (Session info: chrome=91.0.4472.124)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58579}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: be27c306a7826aff664a7ab48bbda540
+*** Element info: {Using=xpath, value=//div[@class='chosen-drop']/ul[@class='chosen-results']/li[text()='צפון']}
+21/07/20 16:07:11 ERROR pages.MainPage:  An error occurred while clicking on category dropdown
+21/07/20 16:07:11 INFO pages.MainPage: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <span>...</span> is not clickable at point (778, 425). Other element would receive the click: <div class="option easy">...</div>
+  (Session info: chrome=91.0.4472.124)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58579}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: be27c306a7826aff664a7ab48bbda540
+21/07/20 16:07:18 ERROR pages.MainPage:  An error occurred while clicking on chosen category
+21/07/20 16:07:18 INFO pages.MainPage: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='chosen-drop']/ul[@class='chosen-results']/li[text()='גיפט קארד לארוחת בוקר ובתי קפה']"}
+  (Session info: chrome=91.0.4472.124)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58579}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: be27c306a7826aff664a7ab48bbda540
+*** Element info: {Using=xpath, value=//div[@class='chosen-drop']/ul[@class='chosen-results']/li[text()='גיפט קארד לארוחת בוקר ובתי קפה']}
+21/07/20 16:07:19 ERROR pages.MainPage:  An error occurred while clicking on search button
+21/07/20 16:07:19 INFO pages.MainPage: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a id="ember1046" href="https://buyme.co.il/search?modal=login" rel="nofollow" class="ui-btn search ember-view">...</a> is not clickable at point (285, 20). Other element would receive the click: <div class="inner">...</div>
+  (Session info: chrome=91.0.4472.124)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.124, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58579}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: be27c306a7826aff664a7ab48bbda540
+21/07/20 16:07:41 INFO tests.TestGiftSubmit: Test finish
+21/07/20 16:07:46 INFO tests.TestChooseGift: Begin test
+21/07/20 16:07:46 INFO pages.MainPage: Click on the dropdown price was successful.
+21/07/20 16:07:46 INFO pages.MainPage: Click on the price price was successful.
+21/07/20 16:07:46 INFO pages.MainPage: Click on the area/district dropdown was successful.
+21/07/20 16:07:46 INFO pages.MainPage: Click on the area/district within list of areas was successful.
+21/07/20 16:07:46 INFO pages.MainPage: Click on the category dropdown was successful.
+21/07/20 16:07:46 INFO pages.MainPage: Click on the chosen category within dropdown was successful.
+21/07/20 16:07:46 INFO pages.MainPage: Click on the search button was successful.
+21/07/20 16:07:47 INFO tests.TestChooseGift: Test finish
+21/07/20 16:07:52 INFO tests.TestChooseGift: Begin test
+21/07/20 16:07:52 INFO pages.MainPage: Click on the dropdown price was successful.
+21/07/20 16:07:53 INFO pages.MainPage: Click on the price price was successful.
+21/07/20 16:07:53 INFO pages.MainPage: Click on the area/district dropdown was successful.
+21/07/20 16:07:53 INFO pages.MainPage: Click on the area/district within list of areas was successful.
+21/07/20 16:07:53 INFO pages.MainPage: Click on the category dropdown was successful.
+21/07/20 16:07:53 INFO pages.MainPage: Click on the chosen category within dropdown was successful.
+21/07/20 16:07:53 INFO pages.MainPage: Click on the search button was successful.
+21/07/20 16:07:58 INFO pages.PurchasingPage: Text typed successful into receiver name field.
+21/07/20 16:07:58 INFO pages.PurchasingPage: Celebrating reason dropdown clicked successful.
+21/07/20 16:07:58 INFO pages.PurchasingPage: Celebrating reason chose successful.
+21/07/20 16:07:59 INFO pages.PurchasingPage: The text typed successful into celebrating text field.
+21/07/20 16:07:59 INFO pages.PurchasingPage: The image uploaded successful.
+21/07/20 16:08:00 INFO pages.PurchasingPage: Submit button clicked successful.
+21/07/20 16:08:01 INFO tests.TestChooseGift: Test finish
+21/07/20 16:08:06 INFO tests.TestBonus: Test starts: careerTest
+21/07/20 16:08:06 INFO pages.MainPage: Scrolling to career link successful.
+21/07/20 16:08:06 INFO pages.MainPage: Click on career link successful.
+21/07/20 16:08:09 INFO tests.TestBonus: Test starts: errorMsgOnLogin
+21/07/20 16:08:09 INFO pages.MainPage: Click on login button was successful.
+21/07/20 16:08:09 INFO pages.LoginPage: The username field filled successful.
+21/07/20 16:08:09 INFO pages.LoginPage: The password field filled successful.
+21/07/20 16:08:10 INFO pages.LoginPage: Click on submit button successful.
+21/07/20 16:08:10 INFO tests.TestBonus: Test finish
+21/07/20 16:08:14 INFO tests.Test_Registration: Begin test
+21/07/20 16:08:15 INFO pages.MainPage: Click on login button was successful.
+21/07/20 16:08:15 INFO pages.RegistrationPage: The username field filled successfully.
+21/07/20 16:08:15 INFO pages.RegistrationPage: The email field filled successfully.
+21/07/20 16:08:15 INFO pages.RegistrationPage: The password field filled successfully.
+21/07/20 16:08:16 INFO pages.RegistrationPage: The password verification field filled successfully.
+21/07/20 16:08:16 INFO tests.Test_Registration: Test finish
