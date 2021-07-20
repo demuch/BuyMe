@@ -1444,3 +1444,108 @@ Session ID: be27c306a7826aff664a7ab48bbda540
 21/07/20 16:08:15 INFO pages.RegistrationPage: The password field filled successfully.
 21/07/20 16:08:16 INFO pages.RegistrationPage: The password verification field filled successfully.
 21/07/20 16:08:16 INFO tests.Test_Registration: Test finish
+21/07/20 18:52:53 INFO tests.TestGiftSubmit: Begin test Optional[class tests.TestGiftSubmit]
+21/07/20 18:52:53 INFO pages.MainPage: Click on login button was successful.
+21/07/20 18:52:55 ERROR pages.MainPage:  An error occurred while clicking on dropdown price
+21/07/20 18:52:55 INFO pages.MainPage: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="chosen-single" tabindex="-1">...</a> is not clickable at point (1221, 425). Other element would receive the click: <div class="inner">...</div>
+  (Session info: chrome=91.0.4472.164)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.164, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63865}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a9c0918372e34946e3bd1e27ee06ede8
+21/07/20 18:53:02 ERROR pages.MainPage:  An error occurred while clicking on price within price list
+21/07/20 18:53:02 INFO pages.MainPage: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@class='chosen-results']/li[3]"}
+  (Session info: chrome=91.0.4472.164)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.164, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63865}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a9c0918372e34946e3bd1e27ee06ede8
+*** Element info: {Using=xpath, value=//ul[@class='chosen-results']/li[3]}
+21/07/20 18:53:04 ERROR pages.MainPage:  An error occurred while clicking on area/district within dropdown list
+21/07/20 18:53:04 INFO pages.MainPage: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <span>...</span> is not clickable at point (1006, 425). Other element would receive the click: <div class="option easy">...</div>
+  (Session info: chrome=91.0.4472.164)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.164, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63865}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a9c0918372e34946e3bd1e27ee06ede8
+21/07/20 18:53:11 ERROR pages.MainPage:  An error occurred while clicking on area/district within the list
+21/07/20 18:53:11 INFO pages.MainPage: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='chosen-drop']/ul[@class='chosen-results']/li[text()='צפון']"}
+  (Session info: chrome=91.0.4472.164)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.164, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63865}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a9c0918372e34946e3bd1e27ee06ede8
+*** Element info: {Using=xpath, value=//div[@class='chosen-drop']/ul[@class='chosen-results']/li[text()='צפון']}
+21/07/20 18:53:12 ERROR pages.MainPage:  An error occurred while clicking on category dropdown
+21/07/20 18:53:12 INFO pages.MainPage: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <span>...</span> is not clickable at point (778, 425). Other element would receive the click: <div class="option easy">...</div>
+  (Session info: chrome=91.0.4472.164)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.164, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63865}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a9c0918372e34946e3bd1e27ee06ede8
+21/07/20 18:53:19 ERROR pages.MainPage:  An error occurred while clicking on chosen category
+21/07/20 18:53:19 INFO pages.MainPage: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='chosen-drop']/ul[@class='chosen-results']/li[text()='גיפט קארד לארוחת בוקר ובתי קפה']"}
+  (Session info: chrome=91.0.4472.164)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.164, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63865}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a9c0918372e34946e3bd1e27ee06ede8
+*** Element info: {Using=xpath, value=//div[@class='chosen-drop']/ul[@class='chosen-results']/li[text()='גיפט קארד לארוחת בוקר ובתי קפה']}
+21/07/20 18:53:20 ERROR pages.MainPage:  An error occurred while clicking on search button
+21/07/20 18:53:20 INFO pages.MainPage: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a id="ember1046" href="https://buyme.co.il/search?modal=login" rel="nofollow" class="ui-btn search ember-view">...</a> is not clickable at point (285, 20). Other element would receive the click: <div class="inner">...</div>
+  (Session info: chrome=91.0.4472.164)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DENIS', ip: '192.168.1.154', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.164, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\de_mu\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63865}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a9c0918372e34946e3bd1e27ee06ede8
+21/07/20 18:53:42 INFO tests.TestGiftSubmit: Test finish
+21/07/20 18:53:47 INFO tests.TestChooseGift: Begin test
+21/07/20 18:53:47 INFO pages.MainPage: Click on the dropdown price was successful.
+21/07/20 18:53:47 INFO pages.MainPage: Click on the price price was successful.
+21/07/20 18:53:47 INFO pages.MainPage: Click on the area/district dropdown was successful.
+21/07/20 18:53:47 INFO pages.MainPage: Click on the area/district within list of areas was successful.
+21/07/20 18:53:47 INFO pages.MainPage: Click on the category dropdown was successful.
+21/07/20 18:53:47 INFO pages.MainPage: Click on the chosen category within dropdown was successful.
+21/07/20 18:53:48 INFO pages.MainPage: Click on the search button was successful.
+21/07/20 18:53:49 INFO tests.TestChooseGift: Test finish
+21/07/20 18:53:54 INFO tests.TestChooseGift: Begin test
+21/07/20 18:53:54 INFO pages.MainPage: Click on the dropdown price was successful.
+21/07/20 18:53:54 INFO pages.MainPage: Click on the price price was successful.
+21/07/20 18:53:54 INFO pages.MainPage: Click on the area/district dropdown was successful.
+21/07/20 18:53:54 INFO pages.MainPage: Click on the area/district within list of areas was successful.
+21/07/20 18:53:54 INFO pages.MainPage: Click on the category dropdown was successful.
+21/07/20 18:53:54 INFO pages.MainPage: Click on the chosen category within dropdown was successful.
+21/07/20 18:53:55 INFO pages.MainPage: Click on the search button was successful.
+21/07/20 18:54:00 INFO pages.PurchasingPage: Text typed successful into receiver name field.
+21/07/20 18:54:00 INFO pages.PurchasingPage: Celebrating reason dropdown clicked successful.
+21/07/20 18:54:00 INFO pages.PurchasingPage: Celebrating reason chose successful.
+21/07/20 18:54:00 INFO pages.PurchasingPage: The text typed successful into celebrating text field.
+21/07/20 18:54:01 INFO pages.PurchasingPage: The image uploaded successful.
+21/07/20 18:54:02 INFO pages.PurchasingPage: Submit button clicked successful.
+21/07/20 18:54:02 INFO tests.TestChooseGift: Test finish
+21/07/20 18:54:07 INFO tests.TestBonus: Test starts: careerTest
+21/07/20 18:54:08 INFO pages.MainPage: Scrolling to career link successful.
+21/07/20 18:54:08 INFO pages.MainPage: Click on career link successful.
+21/07/20 18:54:11 INFO tests.TestBonus: Test starts: errorMsgOnLogin
+21/07/20 18:54:11 INFO pages.MainPage: Click on login button was successful.
+21/07/20 18:54:11 INFO pages.LoginPage: The username field filled successful.
+21/07/20 18:54:11 INFO pages.LoginPage: The password field filled successful.
+21/07/20 18:54:12 INFO pages.LoginPage: Click on submit button successful.
+21/07/20 18:54:12 INFO tests.TestBonus: Test finish
+21/07/20 18:54:16 INFO tests.Test_Registration: Begin test
+21/07/20 18:54:17 INFO pages.MainPage: Click on login button was successful.
+21/07/20 18:54:17 INFO pages.RegistrationPage: The username field filled successfully.
+21/07/20 18:54:17 INFO pages.RegistrationPage: The email field filled successfully.
+21/07/20 18:54:18 INFO pages.RegistrationPage: The password field filled successfully.
+21/07/20 18:54:18 INFO pages.RegistrationPage: The password verification field filled successfully.
+21/07/20 18:54:18 INFO tests.Test_Registration: Test finish
